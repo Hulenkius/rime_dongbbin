@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.25"
+version: "2024.11.251"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3428,7 +3428,7 @@ use_preset_vocabulary: true
 韓	ɣan2
 韭	tɕiəu3
 音	in1
-韵	yn7
+韻	yn7
 韶	sau2
 頁	ie7
 頂	tin3
