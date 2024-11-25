@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.251"
+version: "2024.11.252"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -57,6 +57,10 @@ use_preset_vocabulary: true
 狗	kei3*=kəu3
 着	tau3
 婁	ləu2
+肏	ȵia7
+屄	biɛ2
+葡	bu2
+戰	tsɤn2*=tsɤn7
 
 □	tɕia1*巴～的：没有的味道
 □	tɕya1*～扫杵：竹扫把
@@ -1169,7 +1173,8 @@ use_preset_vocabulary: true
 徹	tsʰɤ7
 彼	pi3
 往	uaŋ3
-征	tsən1*～求
+征	tsən1
+徵	tsən1*～求
 徑	tɕin7
 很	xən3
 律	li7
@@ -1516,7 +1521,7 @@ use_preset_vocabulary: true
 斋	tsai1
 斑	pan1
 斗	təu3*一-米
-斗	təu7*～争
+鬥	təu7*～争
 料	liau6
 斜	dʑia2
 斟	tsən1
