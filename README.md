@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/92b655e2-51db-4e7d-be91-7c809dfe16d2)# rime_dongbbin
+# rime_dongbbin
  RIME 輸入方案：安化東坪話
 
 湘語 婁邵片 湘雙小片 安化縣 東坪鎮
