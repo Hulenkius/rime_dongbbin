@@ -1,4 +1,4 @@
-# rime_dongbbin
+![image](https://github.com/user-attachments/assets/92b655e2-51db-4e7d-be91-7c809dfe16d2)# rime_dongbbin
  RIME 輸入方案：安化東坪話
 
 湘語 婁邵片 湘雙小片 安化縣 東坪鎮
@@ -11,7 +11,7 @@
 或者你也可以刪掉第52行「`speller:alphabet`」後的「`12367`」，這樣就能用數字鍵選詞了。<br>
 此外，第103、104行可以控制「n」「l」是否混淆。
 
-> 祝爾老人家學習進步！
+> 祝爾老人家學習進步！<br>
 > zou n-nangga xuoxi jinbbu!
 
 |IPA|轉寫|
@@ -30,3 +30,5 @@
 
 ---
 附：聲調表
+
+![image](https://github.com/user-attachments/assets/412f2205-0986-4318-b766-b29b1df9ce8b)
