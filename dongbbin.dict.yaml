@@ -37,9 +37,9 @@ use_preset_vocabulary: true
 共	koŋ6
 養	iaŋ3
 兇	ɕioŋ1
-勺	so7
-勺	tʰiau1
-即	tɕʰi7
+勺	so7*=so1
+調	tʰiau1*～羮
+卽	tɕʰi7
 齧	ŋa7*咬
 咽	iɛn1
 壺	βu2
@@ -555,7 +555,7 @@ use_preset_vocabulary: true
 卯	mau3
 印	in7
 危	uei2
-即	tɕi7
+卽	tɕi7
 卻	tɕʰio7
 卵	lo3
 卷	tɕyɛn3*～起
@@ -1549,8 +1549,8 @@ use_preset_vocabulary: true
 旋	dʑiɛn2
 族	tsʰəu7
 旗	dʑi2
-无	u2
-既	tɕi7
+無	u2
+旣	tɕi7
 日	i7*～头：太阳
 日	zɿ7*几月几～
 旦	tan7
