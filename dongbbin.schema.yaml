@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.11.268"
+  version: "2024.11.269"
   author:
     - hulenkius <hulenkius@gmail.com>
   description: |
@@ -89,7 +89,7 @@ speller:
     - xform/ɤ/e/
     - derive/uen/un/
     - xform/ɛ/e/
-    - xform/^y(n|)([1,2,3,6,7]|)$/yu$1$2/
+    - xform/^y/yu/
     - xform/(.)y/$1v/
     - derive/(.)v(.|.*$)/$1u$2/
     - xform/ɿ/i/

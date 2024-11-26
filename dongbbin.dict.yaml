@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.268"
+version: "2024.11.269"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -98,7 +98,7 @@ use_preset_vocabulary: true
 摛	tsʰɿ1*伸
 趖	so1*滑，溜
 㷮	tsau1*(花生瓜子等)炒得脆
-□	lin1*～㷮：很脆;～薄，很薄
+令	lin1*～㷮：很脆;～薄，很薄
 䐿	ŋau3*醃漬
 磴	tʰən3*臺階
 𩇟	tɕin7*冷，涼
@@ -148,7 +148,9 @@ use_preset_vocabulary: true
 諶	sən7
 擤	sən3*=sən7
 淚	lei6*=lei7
-𣏎	ŋa1
+泡	pʰau1*鬆軟
+外	uai7*=uai6
+圳	tɕyn7*深～
 	
 □	tɕia1*巴～的：沒有的味道
 □	tɕya1*～掃杵：竹掃把
@@ -166,12 +168,12 @@ use_preset_vocabulary: true
 燎	liau2*～菜(?)：用開水把菜燙一下
 㲃	tɕiəu2*～螺絲：擰螺絲
 □	tɕin2*～起噠：凝固了
-爾人	ȵin2*～的：你們的
+您	ȵin2*你們(“爾人”合音)
 我人	ŋən2*我們
 錠	tiaŋ2*～重的：很重
 撇	pʰia3*～淡的：很淡
 劈	pʰia3*～他一隻耳巴：打他一個耳光
-□	pʰia3*象聲詞：槍聲
+啪	pʰia3*象聲詞：槍聲
 □	lia3*～舌子：吐舌頭
 □	lia3*～kuai3：不愛乾淨
 □	lo3*舌頭在嘴裏攪動食物
@@ -179,7 +181,7 @@ use_preset_vocabulary: true
 □	ie3*對
 㔢	tɕʰye3*～噠手：扭傷了手
 佩	pʰai3*～起：掛在身上或是裝在口袋裏
-□	tan3*～面：把面放在開水裏煮一下
+□	tan3*～麪：把麪放在開水裏煮一下
 𠻞	kʰan3*咳嗽
 㞞	ɕin3*蠢
 □	in3*怕～人：害羞
@@ -188,7 +190,7 @@ use_preset_vocabulary: true
 拃	dʑia6*大拇指和食指的長度
 䠍	dʑia6*跨：～一腳
 𨀤	lai6*～在地上：坐或躺在地上耍賴不起來
-□	uai6*～後天：大後天
+外	uai6*～後天：大後天
 □	lia7*～虧：喫虧，～東西：口氣不太好
 噦	ua7*～苦的：(味道)很苦
 俗	so7*差、醜：～樣子(?)
@@ -198,7 +200,7 @@ use_preset_vocabulary: true
 □	ɸei7*～鹹的：很鹹
 沬	uei7*～死人噠：淹死人了
 □	tɕʰiəu7*手～氣噠：手扭傷了
-□	tɕʰin7*～甜的：很甜
+清	tɕʰin7*～甜的(?)：很甜
 皴	tsən7*～紋：皺紋
 𨈓	ȵiaŋ7*小
 㞎	pa3*～～：大便，小兒語
@@ -1903,15 +1905,16 @@ use_preset_vocabulary: true
 毯	tʰan3
 氏	zɿ7
 民	min2
-气	tɕʰi2*出～
-气	tɕʰi7*空～
+氣	tɕʰi2*出～
+氣	tɕʰi7*空～
 水	ɕy3
 永	yn3
 汀	tʰin1
 汁	tsɿ7
 求	dʑiəu2
 汆	tɕʰyɛn1
-汇	βei6
+匯	βei6
+彙	βei6
 汗	ɣan6
 汝	ȵy3
 汞	koŋ3
@@ -1924,8 +1927,9 @@ use_preset_vocabulary: true
 汽	tɕʰi7
 沂	ȵin2
 沃	u7
-沈	sən3
-沉	zən2
+沈	sən3*姓
+瀋	sən3
+沈	zən2*沉
 沌	dən7
 沓	tʰa7
 沕	mei6*～子;游泳時一頭扎進水裏
@@ -2288,7 +2292,7 @@ use_preset_vocabulary: true
 癸	kuei2
 登	tən1
 白	pɤ7
-白	ye7
+曰	ye7
 百	pɤ7
 皂	zau6
 的	ti7*目～
