@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.261"
+version: "2024.11.262"
 sort: by_weight
 use_preset_vocabulary: true
 ...
