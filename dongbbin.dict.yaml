@@ -2,9 +2,14 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.252"
+version: "2024.11.26"
 sort: by_weight
 use_preset_vocabulary: true
+import_tables:
+  - lrdxie.basic
+  - lrdxie.bamboo
+  - lrdxie.place
+  - lrdxie.poetry
 ...
 
 湘語
@@ -61,6 +66,17 @@ use_preset_vocabulary: true
 屄	biɛ2
 葡	bu2
 戰	tsɤn2*=tsɤn7
+阿	o1
+屙	o1
+彌	mi2
+陀	do2
+坨	do2
+蚊	mən1*=min1
+爺	ia2*父親
+嫁	tɕia7*～～：姑媽
+媠	do⁶*～～：姑媽
+翡	ɸei7*～綠
+鮮	ɕyɛn1*～紅
 
 □	tɕia1*巴～的：没有的味道
 □	tɕya1*～扫杵：竹扫把
