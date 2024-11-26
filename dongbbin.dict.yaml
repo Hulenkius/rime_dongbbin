@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.262"
+version: "2024.11.263"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -51,7 +51,6 @@ use_preset_vocabulary: true
 代	dai7
 特	tʰɤ7*～別
 特	dei7*～意
-狗	kei3*=kəu3
 着	tau3
 婁	ləu2
 肏	ȵia7
@@ -71,6 +70,7 @@ use_preset_vocabulary: true
 鮮	ɕyɛn1*～紅
 腐	βu3*豆～
 卵	luɤn3*=lo3
+確	tɕʰio7
 
 □	tɕia1*巴～的：没有的味道
 □	tɕya1*～扫杵：竹扫把
