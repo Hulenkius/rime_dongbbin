@@ -2,14 +2,9 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.26"
+version: "2024.11.261"
 sort: by_weight
 use_preset_vocabulary: true
-import_tables:
-  - lrdxie.basic
-  - lrdxie.bamboo
-  - lrdxie.place
-  - lrdxie.poetry
 ...
 
 湘語
@@ -31,7 +26,6 @@ import_tables:
 噶	ka6*過，了
 唧	tɕi3*小稱
 橫	ɣuən2
-𫏬	ȵia1*(=黏)
 團	duɤn2
 棺	kuɤn1
 與	iəu7*參～
@@ -46,7 +40,6 @@ import_tables:
 勺	so7
 勺	tʰiau1
 即	tɕʰi7
-卵	luɤn3
 齧	ŋa7*咬
 咽	iɛn1
 壺	βu2
@@ -54,11 +47,10 @@ import_tables:
 鞋	ɣai2
 頸	tɕiaŋ3*=tɕian3
 癲	tiɛn1
-糍	zɿ2*(=餈)
 代	dai6
 代	dai7
-特	tʰɤ*～別
-特	dei*～意
+特	tʰɤ7*～別
+特	dei7*～意
 狗	kei3*=kəu3
 着	tau3
 婁	ləu2
@@ -74,9 +66,11 @@ import_tables:
 蚊	mən1*=min1
 爺	ia2*父親
 嫁	tɕia7*～～：姑媽
-媠	do⁶*～～：姑媽
+媠	do6*～～：姑媽
 翡	ɸei7*～綠
 鮮	ɕyɛn1*～紅
+腐	βu3*豆～
+卵	luɤn3*=lo3
 
 □	tɕia1*巴～的：没有的味道
 □	tɕya1*～扫杵：竹扫把
