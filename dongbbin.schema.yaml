@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.11.263"
+  version: "2024.11.264"
   author:
     - hulenkius <hulenkius@gmail.com>
   description: |
@@ -85,20 +85,19 @@ speller:
     - derive/ɛn/an/
 
     - xform/ə/e/
-    - xform/ɛ/e/
     - derive/ɤ/a/
     - xform/ɤ/e/
+    - derive/uen/un/
+    - xform/ɛ/e/
     - xform/^y([1,2,3,6,7]|)$/yu$1/
     - xform/(.)y/$1v/
     - derive/(.)v(.|.*$)/$1u$2/
     - xform/ɿ/i/
 
-    - xform/^i/Y/
-    - xform/^u/W/
-    - xform/^Y(n|)([1,2,3,6,7]|)$/yi$1$2/
-    - xform/^W([1,2,3,6,7]|)$/wu$1/
-    - xform/Y/y/
-    - xform/W/w/
+    - xform/^i(n|)([1,2,3,6,7]|)$/yi$1$2/
+    - xform/^u([1,2,3,6,7]|)$/wu$1/
+    - xform/^i/y/
+    - xform/^u/w/
     
     - derive/eu/ou/
     - derive/au/ao/
@@ -106,7 +105,6 @@ speller:
     - derive/ong/eng/
     - derive/iou/iu/
     - derive/uei/ui/
-    - derive/uen/un/
     - derive/in/ing/
     - derive/^n/l/
     - derive/^l/n/
@@ -130,8 +128,8 @@ speller:
     - xform/H/h/
     - xform/Ħ/hh/
 
-    - derive/([j,q,x])io/$1uo/
-    - derive/([j,q,x])io/$1vo/
+    - derive/([j,q,x,l,n])io/$1uo/
+    - derive/([j,q,x,l,n])io/$1vo/
 
 translator:
   dictionary: dongbbin
@@ -140,6 +138,8 @@ translator:
   enable_completion: true
   spelling_hints: 1
   initial_quality: 1
+  preedit_format:
+    - xform/([nljqxy])(v|u)/$1ü/
   comment_format:
     - xform/\*/  /
     - xform/1/¹/
