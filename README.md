@@ -21,6 +21,7 @@
 |k kʰ|g k|
 |ŋ|ng|
 |x ɣ|h hh|
+|ɸ β|f v 或 hu hhu|
 |ts tsʰ z|z c zz|
 |tɕ tɕʰ dʑ|j q jj|
 |ɕ|x|
