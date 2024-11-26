@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.265"
+version: "2024.11.266"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -19,12 +19,20 @@ use_preset_vocabulary: true
 東坪鎮
 
 咖噠
+媠媠
+媠爺
+嫁嫁
+𨈓把戲
+𨈓把喞
 
 的	ti6
 啊	a
 噠	ta3*了
 咖	ka6*過，了
-唧	tɕi3*小稱
+喞	tɕi3*小稱
+喋	diɛ2*提示語，看吶
+爾	n3*你
+人	nin2*=in2
 橫	ɣuən2
 團	duɤn2
 棺	kuɤn1
@@ -32,9 +40,12 @@ use_preset_vocabulary: true
 傾	kʰuaŋ1*=kʰoŋ
 垃	la7
 圾	tɕi7
-些	ɕia1
+些	ɕia1*=ɕi1
 僅	tɕʰin7
-共	koŋ6
+盡	dʑin6
+共	koŋ2*=koŋ7
+共	koŋ6*=koŋ7
+共	koŋ7
 養	iaŋ3
 兇	ɕioŋ1
 勺	so7*=so1
@@ -44,7 +55,7 @@ use_preset_vocabulary: true
 咽	iɛn1
 壺	βu2
 孩	ɣai2
-鞋	ɣai2
+鞋	ɣai2=xai2
 頸	tɕiaŋ3*=tɕian3
 癲	tiɛn1
 代	dai6
@@ -119,7 +130,6 @@ use_preset_vocabulary: true
 咕	ku3*～幾口水：漱口
 唚	tɕin1*吮吸
 粑	pa1
-喋	diɛ2*提示語，看吶
 搨	tʰa7*小火烘煎(餅)
 蒙	moŋ1*～細的：很細
 滴	tin7*一～咖子：一點點
@@ -129,6 +139,9 @@ use_preset_vocabulary: true
 㿸	man3*油～：皮膚上的油垢
 圿	ka7*皮膚上的油垢
 纍	li1*～壯的：健壯
+俗	səu7
+蘆	ləu2
+荸	bu2
 	
 □	tɕia1*巴～的：沒有的味道
 □	tɕya1*～掃杵：竹掃把
@@ -140,7 +153,6 @@ use_preset_vocabulary: true
 □	maŋ1*～酸的：非常酸
 □	saŋ1*～死噠：膩死人了
 茈	zɿ2*～角：荸薺
-荸	bu2
 立	lia2*～唧(立即)：剛剛
 □	lia2*手～咖噠：提東西麻木了
 □	ua2*喫～：喝水，小兒語
@@ -148,7 +160,6 @@ use_preset_vocabulary: true
 㲃	tɕiəu2*～螺絲：擰螺絲
 □	tɕin2*～起噠：凝固了
 爾人	ȵin2*～的：你們的
-爾	n3*你
 我人	ŋən2*我們
 錠	tiaŋ2*～重的：很重
 撇	pʰia3*～淡的：很淡
@@ -174,18 +185,17 @@ use_preset_vocabulary: true
 □	lia7*～虧：喫虧，～東西：口氣不太好
 噦	ua7*～苦的：(味道)很苦
 俗	so7*差、醜：～樣子(?)
-俗	səu6
 𤌍	o7*燙
 抈	ye7*缺口：～口
 𨂿	uai7*身體晃動
 □	ɸei7*～鹹的：很鹹
-□	uei7*～死人噠：淹死人了
+沬	uei7*～死人噠：淹死人了
 □	tɕʰiəu7*手～氣噠：手扭傷了
 □	tɕʰin7*～甜的：很甜
 皴	tsən7*～紋：皺紋
 𨈓	ȵiaŋ7*小
 㞎	pa3*～～：大便，小兒語
-㪕	tsʰo7
+㪕	tsʰo7*觸碰，擺弄
 㪗	tʰəu3
 㸊	lai7*燙
 䁊	kʰuei7*眼睛下陷
@@ -2764,7 +2774,7 @@ use_preset_vocabulary: true
 芙	ɸu2
 芝	tsɿ1
 芥	kai7
-蘆	ləu6
+蘆	ləu6*ləu2的弱讀
 芫	iɛn2*～荽菜
 芬	ɸən1
 芭	pa1
@@ -2834,7 +2844,7 @@ use_preset_vocabulary: true
 葚	zən7
 葛	ko7
 董	toŋ3
-葫	bu2*～蘆
+葫	bu2*～蘆(βu2的音變)
 葬	tsaŋ2
 葱	tsʰoŋ1
 葵	kuei2
