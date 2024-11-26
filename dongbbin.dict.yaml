@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.266"
+version: "2024.11.267"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -116,12 +116,12 @@ use_preset_vocabulary: true
 蔸	təu1*量詞，棵
 箢	yɛn1*～箕
 箕	tɕi1
-斢	tʰiau*調換
+斢	tʰiau3*調換
 熛	piau1*迸濺
 覷	tɕʰi7*看(又作䚍)
-㔣	liəu*翻滾
+㔣	liəu1*翻滾
 顉	tɕʰin3*低頭
-礧	lei*～鉢，～茶(俗作擂)
+礧	lei2*～鉢，～茶(俗作擂)
 躒	lia7*勞累(或作累)
 爐	ləu2*～鍋
 鑥	ləu6*銹
@@ -142,6 +142,8 @@ use_preset_vocabulary: true
 俗	səu7
 蘆	ləu2
 荸	bu2
+諶	sən7
+擤	sən3*=sən7
 	
 □	tɕia1*巴～的：沒有的味道
 □	tɕya1*～掃杵：竹掃把
