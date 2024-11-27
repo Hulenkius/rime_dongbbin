@@ -39,4 +39,4 @@
 ---
 附：聲調表
 	
-![image](https://github.com/user-attachments/assets/3e16a476-0635-4132-8094-e0dff1df313d)
+![image](https://github.com/user-attachments/assets/39927e0c-65c2-4851-9ea4-248c519b6a0f)
