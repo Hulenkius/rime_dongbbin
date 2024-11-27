@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.2611"
+version: "2024.11.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -35,6 +35,7 @@ use_preset_vocabulary: true
 咖	ka*過，了
 喞	tɕi3*小稱
 喋	diɛ2*提示語，看吶
+咧	lɛ*表停頓、疑問
 爾	n3*你
 人	nin2*=in2*
 橫	ɣuən2*
@@ -150,7 +151,8 @@ use_preset_vocabulary: true
 圳	tɕyn7*深～
 礧	lei2*～鉢，～茶(又作擂)
 擂	lei2*～茶(=礧)
-擂	lei6*打～
+擂	lei6*=lei7
+擂	lei7*打～
 煞	sa7*
 柘	tsa2*～溪(地名)
 柘	tsa7*=tsa2
@@ -198,7 +200,6 @@ use_preset_vocabulary: true
 禪	zan2*=tsʰan2
 涎	zan2*吐～：吐痰
 痰	dan2*
-□	tɕia7*～酒：米酒
 給	kɤ3*
 翅	tsɿ7*=tsʰɿ2
 薄	po7*～荷
@@ -214,8 +215,23 @@ use_preset_vocabulary: true
 偕	ɣa6*全，都(又寫作下、咸)
 模	ma1*～糊：髒，不乾淨
 糊	βu2*
-鞼	kʰuai3*折(彎、斷)
+鞼	kʰuai3*折彎、折斷(又寫作㕟)
 筲	sau1*～箕
+□	tɕia7*(味道)澀
+檸	ȵin2*
+檬	moŋ2*
+蒙	moŋ2*=moŋ1
+蘋	bin2*
+𢵈	zɤn7*打，揍，擊
+鯽	tɕi7*
+鰱	liɛn2*
+鰍	tɕʰiəu1*
+鱔	zɤn6*=zɤn7
+鱔	zɤn7*
+鯿	piɛn1*
+胡	βu2*=ɸu2
+義	ȵi1*～氣
+
 
 # 原資料
 □	tɕia1*巴～的：沒有的味道
@@ -236,18 +252,18 @@ use_preset_vocabulary: true
 □	tɕin2*～起噠：凝固了
 您	ȵin2*你們(“爾人”合音)
 我人	ŋən2*我們
-錠	tiaŋ2*～重的：很重
+釘	tiaŋ2*～重的：很重
 撇	pʰia3*～淡的：很淡
 劈	pʰia3*～他一隻耳巴：打他一個耳光
 啪	pʰia3*象聲詞：槍聲
-□	lia3*～舌子：吐舌頭
+咧	lia3*～舌子：吐舌頭
 □	lia3*～kuai3：不愛乾淨
 □	lo3*舌頭在嘴裏攪動食物
 擘	pʰie3*～斷：折斷
 □	ie3*對
 㔢	tɕʰye3*～噠手：扭傷了手
 佩	pʰai3*～起：掛在身上或是裝在口袋裏
-□	tan3*～麪：把麪放在開水裏煮一下
+燙	tan3*～麪：把麪放在開水裏煮一下
 𠻞	kʰan3*咳嗽
 㞞	ɕin3*蠢(又寫作腥)
 □	in3*怕～人：害羞
@@ -320,7 +336,7 @@ use_preset_vocabulary: true
 乃	lai3*
 久	tɕiəu3*
 幺	iau1*～二三
-義	ȵi7*
+義	ȵi7*主～
 之	tsɿ1*
 烏	u1*
 乎	ɸu1*
@@ -533,7 +549,7 @@ use_preset_vocabulary: true
 其	dʑi2*
 具	tɕy7*
 典	tiɛn3*
-兹	tsɿ1*
+茲	tsɿ1*
 養	iaŋ2*
 兼	tɕiɛn1*
 獸	səu7*
@@ -572,7 +588,7 @@ use_preset_vocabulary: true
 湊	təu2*～起來：接攏來
 湊	tsʰəu7*
 凝	ȵi2*
-几	tɕi1*～乎
+幾	tɕi1*～乎
 几	tɕi3*茶～
 幾	tɕi3*～個
 凡	βan2*
@@ -581,6 +597,7 @@ use_preset_vocabulary: true
 凱	kʰai3*
 凳	tən2*
 凶	ɕioŋ1*
+兇	ɕioŋ1*
 出	tɕʰy7*
 擊	tɕi7*
 凼	daŋ7*～進去：凹進去
@@ -655,7 +672,7 @@ use_preset_vocabulary: true
 勢	sɿ7*
 勃	pʰu7*
 勉	miɛn3*
-勋	ɕyn1*
+勳	ɕyn1*
 勒	lɤ7*
 勘	kʰan1*
 募	mo7*
@@ -721,7 +738,7 @@ use_preset_vocabulary: true
 原	yɛn2*
 廂	ɕiaŋ1*
 厥	tɕye7*
-厦	ɕia7*～門
+廈	ɕia7*～門
 廚	dʑy2*
 去	kʰɤ2*～年
 去	tɕʰie2*來～
@@ -784,7 +801,7 @@ use_preset_vocabulary: true
 向	ɕiaŋ7*
 嚇	xa2*～一跳
 嚇	xɤ7*恐～
-吕	lei3*
+呂	lei3*
 君	tɕyn1*
 吝	ȵin7*
 吞	tʰin1*
@@ -793,7 +810,7 @@ use_preset_vocabulary: true
 含	ɣan2*
 聽	tʰin2*
 啓	tɕʰi3*
-吴	u2*
+吳	u2*
 吵	tsʰau3*
 吸	tɕi7*～管
 吸	ɕi7*呼～
@@ -817,10 +834,11 @@ use_preset_vocabulary: true
 命	min7*革～
 和	ɣo2*～氣
 咎	tɕiəu7*
-咏	yn7*
+詠	yn7*
 咒	tsəu2*
 咕	ku3*漱口的動作：一幾口水
 咨	tsɿ1*
+諮	tsɿ1*
 咪	mi1*貓～～叫
 咬	ŋa7*(訓讀字)
 咳	kʰɤ7*
@@ -892,10 +910,10 @@ use_preset_vocabulary: true
 四	sɿ2*
 回	βei2*
 因	in1*
-团	dɤn2*
+團	dɤn2*
 囤	dən7*
 困	kʰuən7*
-囱	tsʰoŋ1*
+囪	tsʰoŋ1*
 圍	uei2*
 固	ku7*
 國	kuɤ7*
@@ -919,7 +937,8 @@ use_preset_vocabulary: true
 坑	kʰoŋ1*
 塊	kʰuai3*
 堅	tɕiɛn1*
-坛	dan2*
+罈	dan2*
+壇	dan2*
 壩	pa2*
 墳	βən2*
 墜	zuei7*
@@ -932,7 +951,7 @@ use_preset_vocabulary: true
 垂	zuei2*
 壟	loŋ3*
 型	dʑin2*
-垒	lei3*
+壘	lei3*
 墾	kʰən3*
 墊	diɛn6*
 垮	kʰua3*
@@ -986,7 +1005,7 @@ use_preset_vocabulary: true
 多	to1*
 夜	ia6*～飯
 夜	ie3*～總會
-够	kəu7*
+夠	kəu7*
 大	dai6*～小
 大	da7*～學
 天	tʰiɛn1*
@@ -996,9 +1015,9 @@ use_preset_vocabulary: true
 失	sɿ7*
 頭	dəu2*
 夷	i2*
-夸	kʰua1*
+誇	kʰua1*
 夾	ka7*～衣
-夾	tɕia7*～攻
+夾	tɕia7*～攻;～酒：米酒
 奪	to7*
 奇	dʑi2*
 奈	lai7*
@@ -1471,7 +1490,7 @@ use_preset_vocabulary: true
 撲	pʰu7*
 打	ta3*
 扔	zən7*
-托	tʰo7*
+託	tʰo7*
 扛	kʰaŋ2*
 扣	kʰəu2*
 執	tsɿ7*
@@ -1499,13 +1518,14 @@ use_preset_vocabulary: true
 折	tsɤ7*～疊
 折	sɤ7*～本
 撫	ɸu3*
-抛	pʰau1*
+拋	pʰau1*
 摳	kʰəu1*
 搶	tɕʰiaŋ3*
 護	βu7*
 報	pau7*
 披	pʰei1*
 抬	dai2*
+擡	dai2*
 抵	ti3*
 抹	ma1*～黑的：很黑
 抹	ma7*～布
@@ -1571,7 +1591,7 @@ use_preset_vocabulary: true
 損	sən3*
 換	βɤn6*
 捧	pʰoŋ3*
-据	tɕy7*
+據	tɕy7*
 捱	ŋai2*～打
 捷	tɕʰie7*
 捺	la7*
@@ -1618,11 +1638,11 @@ use_preset_vocabulary: true
 搣	mie7*掰開，剝開
 搬	pɤn1*
 搭	ta7*
-携	dʑi2*
+攜	dʑi2*
 搽	za2*
 攝	sɤ7*
-摆	pai3*
-摇	iau2*
+擺	pai3*
+搖	iau2*
 攤	tʰan1*
 摘	tsa7*～辣椒
 摘	tsɤ7*文～
@@ -1631,7 +1651,7 @@ use_preset_vocabulary: true
 摸	mo1*
 摹	mo2*
 撇	pʰie7*
-撑	tsʰən1*
+撐	tsʰən1*
 撒	sa3*
 撕	sɿ1*
 撞	zaŋ6*
@@ -1678,9 +1698,9 @@ use_preset_vocabulary: true
 整	tsən3*
 敷	ɸu1*
 文	uən2*
-斋	tsai1*
+齋	tsai1*
 斑	pan1*
-斗	təu3*一-米
+斗	təu3*一～米
 鬥	təu7*～爭
 料	liau6*
 斜	dʑia2*
@@ -1797,7 +1817,7 @@ use_preset_vocabulary: true
 杞	tɕi7*～枸
 杞	tɕʰi3*～人憂天
 束	səu7*
-杠	kaŋ2*
+槓	kaŋ2*
 條	diau2*
 來	lai2*
 楊	iaŋ2*
@@ -1852,6 +1872,7 @@ use_preset_vocabulary: true
 栓	san1*
 棲	tɕʰi1*
 栗	li7*
+慄	li7*
 校	dʑiau7*
 株	tɕy1*
 樣	iaŋ6*
@@ -1964,7 +1985,7 @@ use_preset_vocabulary: true
 段	dɤn6*
 殷	in1*
 殿	diɛn7*
-毁	ɸei3*
+毀	ɸei3*
 毅	ȵi7*
 母	mo3*
 每	mei3*
@@ -1973,7 +1994,7 @@ use_preset_vocabulary: true
 畢	pi7*
 斃	bei7*
 毛	mau2*
-毡	tsɤn1*
+氈	tsɤn1*
 毫	ɣau2*
 毯	tʰan3*
 氏	zɿ7*
@@ -2051,7 +2072,7 @@ use_preset_vocabulary: true
 洪	ɣoŋ2*
 洲	tsəu1*
 活	xo7*
-洼	ua1*
+窪	ua1*
 洽	tɕʰia7*
 派	pʰai2*哪一～
 派	pʰai7*～遣
@@ -2110,6 +2131,7 @@ use_preset_vocabulary: true
 港	kaŋ3*
 渴	kʰo7*
 游	iəu2*
+遊	iəu2*
 渺	miau3*
 湖	ɸu2*
 湘	ɕiaŋ1*
@@ -2164,7 +2186,7 @@ use_preset_vocabulary: true
 灸	tɕiəu7*
 災	tsai1*
 燦	tsʰan7*
-爐	ləu6*(ləu2的弱讀)
+爐	ləu6*ləu2的弱讀
 炊	tsʰuei1*
 炎	iɛn2*
 炒	tsʰau3*
@@ -2204,6 +2226,7 @@ use_preset_vocabulary: true
 熄	ɕi7*
 熊	dʑioŋ2*
 熏	ɕyn1*
+薰	ɕyn1*
 熙	ɕi1*
 熨	yn7*～斗
 熬	ŋau2*
@@ -2262,7 +2285,7 @@ use_preset_vocabulary: true
 猝	tsʰei7*
 豬	tɕy1*
 貓	mau1*
-猬	uei7*
+蝟	uei7*
 獻	ɕiɛn7*
 猴	ɣəu2*
 猾	ua7*
@@ -2369,6 +2392,7 @@ use_preset_vocabulary: true
 曰	ye7*
 百	pɤ7*
 皂	zau6*
+皁	zau6*
 的	ti7*目～
 皆	kai1*
 皇	βaŋ2*
@@ -2474,7 +2498,7 @@ use_preset_vocabulary: true
 禍	ɣo6*
 稟	pin3*
 禁	tɕin7*
-禄	ləu7*
+祿	ləu7*
 禪	tsʰan2*
 福	ɸu7*
 禹	y3*
@@ -2491,7 +2515,7 @@ use_preset_vocabulary: true
 種	tsoŋ3*
 科	kʰo1*
 秒	miau3*
-秘	mi7*
+祕	mi7*
 租	tsəu1*
 秤	tsʰən2*
 秦	dʑin2*
@@ -2768,7 +2792,7 @@ use_preset_vocabulary: true
 骯	ŋaŋ1*
 肯	kʰən3*
 育	iəu7*
-肴	iau2*
+餚	iau2*
 肺	ɸei2*
 腎	sən7*
 腫	tsoŋ3*
@@ -2784,7 +2808,7 @@ use_preset_vocabulary: true
 胛	ka7*肩～
 勝	sən7*
 胞	pau1*
-鬍	bu2*～須
+鬍	bu2*～鬚
 胡	ɸu2*姓～
 胳	ko7*
 膠	tɕiau1*
@@ -2981,7 +3005,7 @@ use_preset_vocabulary: true
 虛	ɕy1*
 虞	y2*
 蟲	zoŋ2*
-虱	sɤ7*
+蝨	sɤ7*
 虹	xən2*
 虹	ɣoŋ2*
 虻	maŋ2*
@@ -3017,7 +3041,7 @@ use_preset_vocabulary: true
 蜻	tɕʰin1*
 蠅	in1*
 蟬	tsʰan2*
-蝎	ɕie1*
+蠍	ɕie1*
 蝗	βaŋ2*
 蝙	piɛn3*
 蝠	ɸu7*
@@ -3033,7 +3057,7 @@ use_preset_vocabulary: true
 蟹	ka3*螃～
 蠢	tɕʰyn3*
 血	ɕye7*
-衅	ɕin7*
+釁	ɕin7*
 行	dʑin2*～爲，品～
 行	ɣaŋ2*～列
 銜	ɣan2*
@@ -3053,7 +3077,7 @@ use_preset_vocabulary: true
 袍	bau2*
 袖	dʑiəu6*衣～
 袖	ɕiəu7*～子
-袜	ua7*
+襪	ua7*
 被	bei6*
 襲	ɕi7*
 裁	zai2*
@@ -3276,7 +3300,7 @@ use_preset_vocabulary: true
 踱	dəu7*
 蹄	di2*
 蹋	tʰa7*
-蹑	ȵie7*
+躡	ȵie7*
 蹦	pən7*
 蹭	tsʰən7*
 蹲	tsən1*
@@ -3314,6 +3338,7 @@ use_preset_vocabulary: true
 辛	ɕin1*
 辭	zɿ2*
 辟	pʰi7*
+闢	pʰi7*
 辣	la7*
 辨	biɛn7*
 辯	biɛn7*
@@ -3419,6 +3444,7 @@ use_preset_vocabulary: true
 醋	tsʰəu2*
 醜	tsʰəu3*
 采	tsʰai3*
+採	tsʰai3*
 釉	iəu6*
 釋	sɿ7*
 里	li3*
@@ -3502,7 +3528,7 @@ use_preset_vocabulary: true
 鏡	tɕin2*
 鏇	dʑiɛn2*
 鐲	tsəu7*
-镰	liɛn2*
+鐮	liɛn2*
 鑲	ɕiaŋ1*
 長	zaŋ2*～短
 長	tsaŋ3*生～
@@ -3587,7 +3613,7 @@ use_preset_vocabulary: true
 需	ɕy1*
 霄	ɕiau1*
 震	zən7*
-霉	mei2*
+黴	mei2*
 霍	xo7*
 霜	saŋ1*
 霞	dʑia2*
