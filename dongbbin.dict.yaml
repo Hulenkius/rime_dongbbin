@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.11.27"
+version: "2024.11.271"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -40,7 +40,6 @@ use_preset_vocabulary: true
 人	nin2*=in2*
 橫	ɣuən2*
 團	duɤn2*
-棺	kuɤn1*
 與	iəu7*參～
 傾	kʰuaŋ1*=kʰoŋ
 垃	la7*
@@ -52,7 +51,6 @@ use_preset_vocabulary: true
 共	koŋ6*=koŋ7*
 共	koŋ7*
 養	iaŋ3*
-兇	ɕioŋ1*
 勺	so7*=so1*
 調	tʰiau1*～羮
 即	tɕʰi7*
@@ -217,25 +215,24 @@ use_preset_vocabulary: true
 糊	βu2*
 鞼	kʰuai3*折彎、折斷(又寫作㕟)
 筲	sau1*～箕
-□	tɕia7*(味道)澀
+澀	tɕia7*
 檸	ȵin2*
 檬	moŋ2*
 蒙	moŋ2*=moŋ1
 蘋	bin2*
 𢵈	zɤn7*打，揍，擊
-鯽	tɕi7*
 鰱	liɛn2*
 鰍	tɕʰiəu1*
 鱔	zɤn6*=zɤn7
 鱔	zɤn7*
 鯿	piɛn1*
 胡	βu2*=ɸu2
-義	ȵi1*～氣
-
+義	ȵi6*=ȵi7
+杵	tɕy3*掃～：掃把
 
 # 原資料
 □	tɕia1*巴～的：沒有的味道
-□	tɕya1*～掃杵：竹掃把
+搽	tɕya1*～掃杵：竹掃把
 □	kai1*～起腦殼：低着頭
 □	lei1*～死噠：喫多了無油的東西不舒服不好聽
 □	lan1*～泡的：很鬆軟
@@ -280,7 +277,7 @@ use_preset_vocabulary: true
 抈	ye7*缺口：～口
 𨂿	uai7*身體晃動
 □	ɸei7*～鹹的：很鹹
-沬	uei7*～死人噠：淹死人了
+𩑦	uei7*～死人噠：淹死人了(又寫作沬)
 □	tɕʰiəu7*手～氣噠：手扭傷了
 清	tɕʰin7*～甜的(?)：很甜
 皴	tsən7*～紋：皺紋
@@ -331,7 +328,7 @@ use_preset_vocabulary: true
 丹	tan1*
 爲	uei2*
 主	tɕy3*
-麗 	li7*
+麗	li7*
 舉	tɕy3*
 乃	lai3*
 久	tɕiəu3*
@@ -710,6 +707,7 @@ use_preset_vocabulary: true
 占	tsɤn1*～卜
 佔	tsɤn2*～有
 盧	ləu6*
+鹵	ləu3*
 滷	ləu3*
 卦	kua2*
 臥	ŋo7*
@@ -1038,7 +1036,7 @@ use_preset_vocabulary: true
 奴	ləu6*
 奶	lai3*
 奸	kan1*
-姦 	kan1*
+姦	kan1*
 好	xau2*～喫婆
 好	xau3*～壞
 好	xau7*愛～
@@ -1712,7 +1710,6 @@ use_preset_vocabulary: true
 斷	dɤn6*
 新	ɕin1*
 方	ɸaŋ1*
-於	y2*
 施	sɿ1*
 旁	baŋ2*
 旅	li3*
@@ -2607,7 +2604,6 @@ use_preset_vocabulary: true
 簍	ləu3*
 篙	kau1*
 篡	tɕʰyɛn7*
-竄	tɕʰyɛn7*
 篦	bei6*
 籃	lan2*
 籬	li2*
@@ -2987,7 +2983,6 @@ use_preset_vocabulary: true
 薪	ɕin1*
 薭	bai2*
 薯	dʑy2*紅～
-薰	ɕyn1*
 藉	tɕia2*～故
 藉	tɕʰi7*
 藏	zaŋ2*隱～
@@ -3134,7 +3129,6 @@ use_preset_vocabulary: true
 譏	tɕi1*
 討	tʰau3*
 讓	iaŋ6*
-託	tʰo7*
 訓	ɕyn7*
 議	ȵi7*
 訊	ɕin7*
@@ -3442,7 +3436,6 @@ use_preset_vocabulary: true
 醇	dʑyn2*
 醉	tsei2*
 醋	tsʰəu2*
-醜	tsʰəu3*
 采	tsʰai3*
 採	tsʰai3*
 釉	iəu6*
