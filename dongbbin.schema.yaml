@@ -4,9 +4,10 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.11.2610"
+  version: "2024.11.267"
   author:
     - hulenkius <hulenkius@gmail.com>
+    - github.com/Hulenkius/rime_dongbbin
   description: |
     湘語 婁邵片 湘雙小片 益陽市安化縣東坪鎮
     按漢語拼音的風格轉寫
