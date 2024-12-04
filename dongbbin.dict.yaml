@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.04"
+version: "2024.12.041"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -44,10 +44,9 @@ use_preset_vocabulary: true
 □	tɕʰiəu7*手～氣噠：手扭傷了
 □	tɕia1*巴～的：沒有□的味道
 □	tɕin2*凝固，結冰
-□	ua2*喫～：喝水，小兒語
 啊	a*語氣詞
 阿	a1*～姨
-啊	a7*名詞前綴，這，那，的
+啊	a7*發語辭，這，那，的
 唉	ai
 欸	ai3*語氣詞
 耙	ba2
@@ -5061,7 +5060,6 @@ use_preset_vocabulary: true
 癡	tsʰɿ1
 疵	tsʰɿ1
 雌	tsʰɿ1
-摛	tsʰɿ1*～手：伸出手來
 差	tsʰɿ1*參～
 摛	tsʰɿ1*伸
 翅	tsʰɿ2
@@ -5260,6 +5258,7 @@ use_preset_vocabulary: true
 窪	ua1
 哇	ua1*象聲詞
 娃	ua2*～哈哈(食品)
+茶	ua2*喫～：喝水，小兒語⬅️dʑya2
 瓦	ua3
 搲	ua3*舀
 猾	ua7
