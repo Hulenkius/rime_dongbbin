@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.042"
+version: "2024.12.05"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -32,6 +32,7 @@ use_preset_vocabulary: true
 □	kʰoŋ3*～起腦殼：低着頭
 □	lan1*～泡的：很鬆軟
 □	lei1*～死噠：喫多了無油的東西不舒服
+□	lei3*掉落
 □	ləu3*沾上(泥、醬)
 □	lia2*手～咖噠：提東西麻木了
 □	lia3*～kuai3：不愛乾淨
@@ -445,6 +446,7 @@ use_preset_vocabulary: true
 絮	ɕy7
 煦	ɕy7
 漵	ɕy7
+序	ɕy7*秩～
 靴	ɕya1
 殺	ɕya7*～禾：割禾
 甩	ɕya7*～咖：扔掉
@@ -817,7 +819,9 @@ use_preset_vocabulary: true
 現	dʑiɛn6
 踐	dʑiɛn6*～踏
 餞	dʑiɛn6*～行
+健	dʑiɛn6
 漸	dʑiɛn7*⬅️-6
+健	dʑiɛn7*⬅️-6
 鯨	dʑin2
 芹	dʑin2
 芩	dʑin2
@@ -1584,7 +1588,7 @@ use_preset_vocabulary: true
 客	kʰɤ7
 氪	kʰɤ7
 溘	kʰɤ7
-蚪	kʰo1
+蝌	kʰo1
 苛	kʰo1
 珂	kʰo1
 柯	kʰo1
@@ -1834,7 +1838,6 @@ use_preset_vocabulary: true
 冠	kuɤn7*～軍
 慣	kuɤn7*習～
 拉	la1
-挪	la2
 哪	la3
 垃	la7
 邋	la7
@@ -2490,6 +2493,7 @@ use_preset_vocabulary: true
 嗯	n1
 爾	n3*你
 拿	na1
+挪	na2*爬動
 那	na7
 娜	na7
 納	na7
@@ -2531,6 +2535,7 @@ use_preset_vocabulary: true
 怒	nəu7
 哪	nɤ2*～吒
 娜	no2
+挪	no2
 儺	no2
 糯	no6
 懦	no7
@@ -4172,7 +4177,6 @@ use_preset_vocabulary: true
 鞬	tɕiɛn7
 見	tɕiɛn7
 建	tɕiɛn7
-健	tɕiɛn7
 僭	tɕiɛn7
 薦	tɕiɛn7
 鍵	tɕiɛn7
@@ -4378,7 +4382,7 @@ use_preset_vocabulary: true
 堵	təu3
 睹	təu3
 賭	təu3
-蝌	təu3
+蚪	təu3
 斗	təu3*一～米
 肚	təu3*魚～
 痘	təu7
