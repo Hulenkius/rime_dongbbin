@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.05"
+version: "2024.12.07"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -796,6 +796,7 @@ use_preset_vocabulary: true
 舅	dʑiəu6
 舊	dʑiəu6
 袖	dʑiəu6*衣～
+岫	dʑiəu7
 前	dʑiɛn2
 虔	dʑiɛn2
 掮	dʑiɛn2
@@ -1747,7 +1748,7 @@ use_preset_vocabulary: true
 過	ku2*～身
 古	ku3
 股	ku3
-牯	ku3
+牯	ku3*賊～子：賊
 詁	ku3
 鼓	ku3
 瞽	ku3
@@ -2159,7 +2160,7 @@ use_preset_vocabulary: true
 瀲	liɛn7
 戀	liɛn7
 鈴	lin1
-令	lin1*～㷮：很脆;～薄，很薄
+令	lin1*～㷮：很脆;～薄：很薄
 棱	lin2
 拎	lin2
 林	lin2
@@ -2247,7 +2248,7 @@ use_preset_vocabulary: true
 姆	m1*～媽：奶奶
 媽	ma1
 抹	ma1*～黑的：很黑
-模	ma1*～糊：髒，不乾淨
+模	ma1*～糊：髒
 麻	ma2
 蟆	ma2*蛤～
 馬	ma3
@@ -5657,6 +5658,7 @@ use_preset_vocabulary: true
 涎	zan2*吐～：吐痰
 暫	zan6
 賺	zan6
+𢯆	zan7*打，揍，擊
 常	zaŋ2
 徜	zaŋ2
 場	zaŋ2
@@ -5784,8 +5786,6 @@ use_preset_vocabulary: true
 善	zɤn7*⬅️-6
 繕	zɤn7*⬅️-6
 鱔	zɤn7*⬅️-6
-𢵈	zɤn7*打，揍，擊
-岫	ʑiəu7
 昨	zo2
 痤	zo6
 坐	zo6
