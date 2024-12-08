@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.12.04"
+  version: "2024.12.08"
   author:
     - hulenkius <hulenkius@gmail.com>
     - github.com/Hulenkius/rime_dongbbin
@@ -53,10 +53,10 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba12367
   delimiter: " '"
   algebra:
-    - xform/(\*)(.*)$//
-    - derive/([1,2,3,6,7])//
+    - xform/(\*)(.*)$//				# 定位註釋範圍
+    - derive/([1,2,3,6,7])//			# 聲調
 
-    - xform/^tsʰ/C/
+    - xform/^tsʰ/C/				# 以下轉換聲母以便後續處理
     - xform/^ts/Z/
     - xform/^tɕʰ/Q/
     - xform/^tɕ/J/
@@ -81,21 +81,21 @@ speller:
     - derive/f/hu/
     - xform/^β/v/
     - derive/v/hhu/
-    - xform/uu/u/
+    - xform/uu/u/				# 去掉ɸ、β產出的多餘u
 
-    - derive/ɛn/an/
+    - derive/ɛn/an/				# 混淆ian、ien
 
-    - xform/ə/e/
+    - xform/ə/e/				# 以下處理韻母
     - derive/ɤn/an/
     - xform/ɤ/e/
     - derive/uen/un/
     - xform/ɛ/e/
-    - xform/^y/yu/
+    - xform/^y/yu/				# 按漢拼規則寫i、u、ü
     - xform/(.)y/$1v/
     - derive/(.)v(.|.*$)/$1u$2/
     - xform/ɿ/i/
 
-    - xform/^i(n|)([1,2,3,6,7]|)$/yi$1$2/
+    - xform/^i(n|)([1,2,3,6,7]|)$/yi$1$2/	# 按漢拼規則寫i、u、ü
     - xform/^u([1,2,3,6,7]|)$/wu$1/
     - xform/^i/y/
     - xform/^u/w/
@@ -105,13 +105,14 @@ speller:
     - derive/ɛn/an/
     - derive/ong/eng/
     - derive/iou/iu/
+    - derive/^([Z,C,s,Ƶ])([a,e,o])/$1u$2/	# 精組混淆開合咧
     - derive/uei/ui/
     - derive/uei/ei/
     - derive/in/ing/
-    - derive/^n/l/
-    - derive/^l/n/
+    #- derive/^n/l/
+    #- derive/^l/n/
 
-    - xform/C/c/
+    - xform/C/c/				# 以下還原聲母
     - xform/Z/z/
     - xform/Q/q/
     - xform/J/j/
@@ -130,8 +131,11 @@ speller:
     - xform/H/h/
     - xform/Ħ/hh/
 
-    - derive/jj/xx/
-    - derive/([j,q,x,l,n])io/$1uo/
+    - derive/jj/xx/				# dʑ、z、b、d容錯 
+    - derive/zz/ss/
+    - derive/bb/pp/
+    - derive/dd/tt/
+    - derive/([j,q,x,l,n])io/$1uo/		# 混淆io、üo
     - derive/([j,q,x,l,n])io/$1vo/
     - derive/^yo$/yuo/
     - derive/^yo$/yvo/

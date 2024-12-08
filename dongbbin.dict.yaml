@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.07"
+version: "2024.12.08"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -815,14 +815,14 @@ use_preset_vocabulary: true
 乾	dʑiɛn2*～坤
 全	dʑiɛn2*⬅️dʑy-
 件	dʑiɛn6
+健	dʑiɛn6
 漸	dʑiɛn6
 賤	dʑiɛn6
 現	dʑiɛn6
 踐	dʑiɛn6*～踏
 餞	dʑiɛn6*～行
-健	dʑiɛn6
-漸	dʑiɛn7*⬅️-6
 健	dʑiɛn7*⬅️-6
+漸	dʑiɛn7*⬅️-6
 鯨	dʑin2
 芹	dʑin2
 芩	dʑin2
@@ -1589,13 +1589,13 @@ use_preset_vocabulary: true
 客	kʰɤ7
 氪	kʰɤ7
 溘	kʰɤ7
-蝌	kʰo1
 苛	kʰo1
 珂	kʰo1
 柯	kʰo1
 科	kʰo1
 稞	kʰo1
 窠	kʰo1
+蝌	kʰo1
 軻	kʰo1*荊～
 課	kʰo2
 棵	kʰo3
@@ -1748,7 +1748,6 @@ use_preset_vocabulary: true
 過	ku2*～身
 古	ku3
 股	ku3
-牯	ku3*賊～子：賊
 詁	ku3
 鼓	ku3
 瞽	ku3
@@ -1756,6 +1755,7 @@ use_preset_vocabulary: true
 咕	ku3*～幾口水：漱口
 咕	ku3*漱口的動作：一幾口水
 淈	ku3*水湧出
+牯	ku3*賊～子：賊
 咕	ku3*這
 轂	ku7
 谷	ku7
@@ -2346,6 +2346,7 @@ use_preset_vocabulary: true
 寐	mei7*⬅️-6
 們	mən
 蚊	mən1*
+門	mən2
 悶	mən7
 燜	mən7*黃～雞
 墨	mɤ1*～黑的：很黑
@@ -2416,7 +2417,6 @@ use_preset_vocabulary: true
 面	miɛn6
 麪	miɛn6
 蚊	min1*⬅️mə-
-門	min2
 萌	min2
 盟	min2
 民	min2
@@ -2431,6 +2431,7 @@ use_preset_vocabulary: true
 銘	min2
 瞑	min2
 螟	min2
+門	min2*⬅️mə-
 皿	min3
 抿	min3
 敏	min3
@@ -3456,14 +3457,18 @@ use_preset_vocabulary: true
 邵	sau7
 紹	sau7
 少	sau7*～年
+睢	sei1
 稅	sei2
+綏	sei2
 碎	sei2
 歲	sei2
 稅	sei7
+睡	sei7
 祟	sei7
 遂	sei7
 誶	sei7
 燧	sei7
+穗	sei7
 邃	sei7
 珅	sən*和～
 森	sən1
@@ -3676,10 +3681,6 @@ use_preset_vocabulary: true
 什	sɿ7*～物
 試	sɿ7*考～
 軾	sɿ7*蘇～
-睢	suei1
-綏	suei2
-睡	suei7
-穗	suei7
 打	ta3
 噠	ta3*了
 耷	ta7
@@ -3921,7 +3922,7 @@ use_preset_vocabulary: true
 去	tɕʰy7*～世
 處	tɕʰy7*～所
 蹠	tɕʰya7*雙足亂踢、亂蹬
-㔢	tɕʰye3*～噠手：扭傷了手
+㔢	tɕʰye3*折斷;扭傷
 缺	tɕʰye7
 榷	tɕʰye7
 闕	tɕʰyɛ7
@@ -4380,10 +4381,10 @@ use_preset_vocabulary: true
 湊	təu2*～起來：接攏來
 抖	təu3
 陡	təu3
+蚪	təu3
 堵	təu3
 睹	təu3
 賭	təu3
-蚪	təu3
 斗	təu3*一～米
 肚	təu3*魚～
 痘	təu7
@@ -4743,9 +4744,13 @@ use_preset_vocabulary: true
 曌	tsau7
 肇	tsau7*⬅️dʑiau6
 兆	tsau7*病～
+追	tsei1
 椎	tsei1
+錐	tsei1
 醉	tsei2
 嘴	tsei3*脣～
+惴	tsei7
+綴	tsei7
 贅	tsei7
 最	tsei7
 蹲	tsən1
@@ -4952,6 +4957,7 @@ use_preset_vocabulary: true
 躁	tsʰau7
 造	tsʰau7*建～
 掣	tsʰə7
+炊	tsʰei1
 崔	tsʰei1
 催	tsʰei1
 摧	tsʰei1
@@ -5099,7 +5105,6 @@ use_preset_vocabulary: true
 滯	tsʰɿ7
 刺	tsʰɿ7*～殺
 赤	tsʰɿ7*～衛隊
-炊	tsʰuei1
 左	tso3
 佐	tso3
 拙	tso7
@@ -5220,10 +5225,6 @@ use_preset_vocabulary: true
 知	tsɿ7*～了(=蠽蟟，蟬)
 趾	tsɿ7*～拇
 炙	tsɿ7*膾～人口
-追	tsuei1
-錐	tsuei1
-惴	tsuei7
-綴	tsuei7
 鵭	u1
 污	u1
 巫	u1
@@ -5699,9 +5700,22 @@ use_preset_vocabulary: true
 造	zau6*～福
 召	zau7
 造	zau7*建～
+垂	zei2
+錘	zei2
 蕤	zei2
+誰	zei2
+隋	zei2
+隨	zei2
 蕊	zei3
 罪	zei6
+芮	zei7
+枘	zei7
+瑞	zei7
+睿	zei7
+銳	zei7
+隧	zei7
+墜	zei7
+縋	zei7
 蕞	zei7
 岑	zən2
 涔	zən2
@@ -5852,19 +5866,6 @@ use_preset_vocabulary: true
 稚	zɿ7
 氏	zɿ7*⬅️-6
 日	zɿ7*幾月幾～
-垂	zuei2
-錘	zuei2
-誰	zuei2
-隋	zuei2
-隨	zuei2
-芮	zuei7
-枘	zuei7
-瑞	zuei7
-睿	zuei7
-銳	zuei7
-隧	zuei7
-墜	zuei7
-縋	zuei7
 華	βa2
 鏵	βa2
 划	βa2

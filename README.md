@@ -3,7 +3,7 @@
 
 湘語 婁邵片 湘雙小片 安化縣 東坪鎮
 
-材料來自 [漢字音典](https://github.com/osfans/MCPDict) 和《[漢語方言用字規範](https://fangyanzi.vercel.app/)》，糾正了絕大多數繁簡轉換及 OCR 錯誤，補充了大量表中未收及的字音。
+材料來自 [漢字音典](https://github.com/osfans/MCPDict) 和《[漢語方言用字規範](https://fangyanzi.vercel.app/)》，糾正了絕大多數繁簡轉換及 OCR 錯誤，補充了大量表中未收及的字音。統一了一些記音細節。
 
 材料的記音，需要注意的是：[oŋ] 常常實現爲 [ɤŋ]，[ɸ][β] 常常實現爲[xu][ɣu]，所以在輸入時可以混淆。
 
@@ -36,7 +36,8 @@
 
 [ɤn] 可以用 an 或 en 輸入。<br>
 「ong」可混淆爲「eng」。<br>
-「j、q、x、l、n」後的「io」可混淆爲「üo」。
+「j、q、x、l、n」後的「io」可混淆爲「üo」。<br>
+當「z、c、s、zz」後接「a、e、o」時，中間可以插入一個「u」。
 
 ---
 附：聲調表
