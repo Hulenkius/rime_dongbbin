@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.103"
+version: "2024.12.11"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3975,6 +3975,7 @@ use_preset_vocabulary: true
 己	tɕi3
 擠	tɕi3
 紀	tɕi3
+咀	tɕi*=嘴
 嘴	tɕi3
 濟	tɕi3*～～一堂
 幾	tɕi3*～個
@@ -4333,7 +4334,6 @@ use_preset_vocabulary: true
 撰	tɕyɛn7
 篆	tɕyɛn7
 卷	tɕyɛn7*試～
-咀	tɕyi*=嘴
 惇	tɕyn1
 均	tɕyn1
 君	tɕyn1
