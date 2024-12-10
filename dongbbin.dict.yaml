@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.101"
+version: "2024.12.102"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1200,7 +1200,7 @@ use_preset_vocabulary: true
 悠	iəu1
 憂	iəu1
 優	iəu1
-呦	iəu1*屠～～
+呦	iəu1*～～
 揉	iəu2
 尤	iəu2
 由	iəu2
@@ -1852,7 +1852,7 @@ use_preset_vocabulary: true
 來	lai2
 崍	lai2
 徠	lai2
-萊	lai2*華～(企業)
+萊	lai2
 睞	lai6
 癩	lai6
 𨀤	lai6*～在地上：坐或躺在地上耍賴不起來
@@ -2596,8 +2596,6 @@ use_preset_vocabulary: true
 裊	ȵiau3
 尿	ȵiau6
 噎	ȵie1
-冉	ȵie3
-染	ȵie3*⬅️-ɛn3
 涅	ȵie7
 嚙	ȵie7
 鎳	ȵie7
@@ -2632,7 +2630,9 @@ use_preset_vocabulary: true
 輦	ȵiɛn3
 碾	ȵiɛn3
 攆	ȵiɛn3
+冉	ȵiɛn3
 苒	ȵiɛn3
+染	ȵiɛn3
 念	ȵiɛn6
 硯	ȵiɛn6
 諺	ȵiɛn6
@@ -3169,6 +3169,7 @@ use_preset_vocabulary: true
 樸	pʰu7
 蹼	pʰu7
 屄	pi1
+屄	pi1
 比	pi3
 妣	pi3
 彼	pi3
@@ -3201,7 +3202,6 @@ use_preset_vocabulary: true
 裱	piau3
 錶	piau3
 癟	pie3
-貶	pie3*⬅️-ɛn3
 逼	pie7
 憋	pie7
 鱉	pie7
@@ -3217,6 +3217,7 @@ use_preset_vocabulary: true
 蝙	piɛn3
 扁	piɛn3
 匾	piɛn3
+貶	piɛn3
 變	piɛn7*～化
 汴	piɛn7*⬅️biɛn6
 崩	pin1
@@ -3801,6 +3802,7 @@ use_preset_vocabulary: true
 橇	tɕʰiau1
 鍬	tɕʰiau1
 繰	tɕʰiau1
+蹺	tɕʰiau1*～～板
 悄	tɕʰiau1*～～話
 窍	tɕʰiau2
 撬	tɕʰiau2
@@ -5268,7 +5270,7 @@ use_preset_vocabulary: true
 蛙	ua1
 窪	ua1
 哇	ua1*象聲詞
-娃	ua2*～哈哈(食品)
+娃	ua2
 茶	ua2*喫～：喝水，小兒語⬅️dʑya2
 瓦	ua3
 搲	ua3*舀
