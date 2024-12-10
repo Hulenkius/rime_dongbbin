@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.08"
+version: "2024.12.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -26,6 +26,7 @@ use_preset_vocabulary: true
 𨈓把喞
 
 □	bie2*顫抖
+□	i2*～家：怎麼
 □	ie3*對
 □	in3*怕～人：害羞
 □	kai1*～起腦殼：低着頭
@@ -2580,6 +2581,7 @@ use_preset_vocabulary: true
 䦧	ȵi7*⬅️-6
 義	ȵi7*主～⬅️-6
 黏	ȵia1
+𫏬	ȵia1*=黏
 黏	ȵia2
 惹	ȵia3
 肏	ȵia7
