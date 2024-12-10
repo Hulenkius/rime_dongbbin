@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.10"
+version: "2024.12.101"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2580,8 +2580,7 @@ use_preset_vocabulary: true
 議	ȵi7
 䦧	ȵi7*⬅️-6
 義	ȵi7*主～⬅️-6
-黏	ȵia1
-𫏬	ȵia1*=黏
+黏	ȵia1*(又寫作𪐀、𫏬)
 黏	ȵia2
 惹	ȵia3
 肏	ȵia7
