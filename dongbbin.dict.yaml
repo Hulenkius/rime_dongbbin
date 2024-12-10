@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.102"
+version: "2024.12.103"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -475,7 +475,7 @@ use_preset_vocabulary: true
 眩	ɕyɛn2
 楦	ɕyɛn2
 鉉	ɕyɛn2*盧武～
-蒜	ɕyɛn2⬅️sɤn2
+蒜	ɕyɛn2⬅️suɤn2
 蘚	ɕyɛn3
 癬	ɕyɛn3
 渲	ɕyɛn7
@@ -598,13 +598,6 @@ use_preset_vocabulary: true
 杜	dəu7
 踱	dəu7
 逗	dəu7*～號
-團	dɤn2
-段	dɤn6
-緞	dɤn6
-鍛	dɤn6
-斷	dɤn6
-椴	dɤn7
-煅	dɤn7
 堤	di2
 荑	di2
 啼	di2
@@ -694,6 +687,12 @@ use_preset_vocabulary: true
 動	doŋ7*運～
 摶	duɤn2
 團	duɤn2
+段	duɤn6
+緞	duɤn6
+鍛	duɤn6
+斷	duɤn6
+椴	duɤn7
+煅	duɤn7
 疇	dzəu2
 期	dʑi2
 祁	dʑi2
@@ -1850,9 +1849,9 @@ use_preset_vocabulary: true
 啦	la7*表判斷、反問
 落	la7*角～
 來	lai2
+萊	lai2
 崍	lai2
 徠	lai2
-萊	lai2
 睞	lai6
 癩	lai6
 𨀤	lai6*～在地上：坐或躺在地上耍賴不起來
@@ -2006,15 +2005,6 @@ use_preset_vocabulary: true
 勒	lɤ7
 肋	lɤ7
 劣	lɤ7
-巒	lɤn2
-孿	lɤn2
-欒	lɤn2
-攣	lɤn2
-灤	lɤn2
-鑾	lɤn2
-鸞	lɤn2
-卵	lɤn3
-亂	lɤn6
 纍	li1*～胖的：很胖
 狸	li2
 梨	li2
@@ -2219,7 +2209,7 @@ use_preset_vocabulary: true
 鑼	lo2
 裸	lo3
 蠃	lo3
-卵	lo3*⬅️lɤn3
+卵	lo3*⬅️luɤn3
 摞	lo6
 鉻	lo7
 駱	lo7
@@ -2244,7 +2234,16 @@ use_preset_vocabulary: true
 壟	loŋ3
 弄	loŋ6
 弄	loŋ7*巷
+巒	luɤn2
+孿	luɤn2
+欒	luɤn2
+攣	luɤn2
+灤	luɤn2
+鑾	luɤn2
+鸞	luɤn2
 圝	luɤn2*圓
+卵	luɤn3
+亂	luɤn6
 劣	lye7
 姆	m1*～媽：奶奶
 媽	ma1
@@ -3577,10 +3576,7 @@ use_preset_vocabulary: true
 蝨	sɤ7
 折	sɤ7*～本
 舍	sɤ7*宿～
-酸	sɤn1
 煽	sɤn1*⬅️sa-
-蒜	sɤn2
-算	sɤn2
 扇	sɤn2*⬅️sa-
 閃	sɤn3
 陝	sɤn3*～西
@@ -3683,6 +3679,9 @@ use_preset_vocabulary: true
 什	sɿ7*～物
 試	sɿ7*考～
 軾	sɿ7*蘇～
+酸	suɤn1
+蒜	suɤn2
+算	suɤn2
 打	ta3
 噠	ta3*了
 耷	ta7
@@ -4403,9 +4402,6 @@ use_preset_vocabulary: true
 鬥	təu7*～爭
 得	tɤ7
 德	tɤ7
-端	tɤn1
-短	tɤn3
-鍛	tɤn7*⬅️dɤn6
 他	tʰa1
 她	tʰa1
 遢	tʰa1*⬅️-7
@@ -4479,7 +4475,6 @@ use_preset_vocabulary: true
 突	tʰəu7
 糗	tʰəu7*出～
 特	tʰɤ7
-湍	tʰɤn1
 梯	tʰi1
 剃	tʰi2
 體	tʰi3
@@ -4552,6 +4547,7 @@ use_preset_vocabulary: true
 忡	tʰoŋ3*(?)
 嗵	tʰoŋ3*象聲詞
 慟	tʰoŋ7
+湍	tʰuɤn1
 低	ti1
 爹	ti1*父親
 屜	ti2*～子
@@ -5228,6 +5224,9 @@ use_preset_vocabulary: true
 知	tsɿ7*～了(=蠽蟟，蟬)
 趾	tsɿ7*～拇
 炙	tsɿ7*膾～人口
+端	tuɤn1
+短	tuɤn3
+鍛	tuɤn7*⬅️duɤn6
 鵭	u1
 污	u1
 巫	u1
@@ -5271,7 +5270,7 @@ use_preset_vocabulary: true
 窪	ua1
 哇	ua1*象聲詞
 娃	ua2
-茶	ua2*喫～：喝水，小兒語⬅️dʑya2
+茶	ua2*喫～：喝水，小兒語⬅️zua2
 瓦	ua3
 搲	ua3*舀
 猾	ua7
@@ -5959,6 +5958,7 @@ use_preset_vocabulary: true
 完	βɤn2
 宦	βɤn6
 換	βɤn6
+喚	βɤn6
 煥	βɤn6
 瘓	βɤn6
 浣	βɤn6*～洗
