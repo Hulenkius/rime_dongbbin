@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.12.11"
+  version: "2024.12.111"
   author:
     - hulenkius <hulenkius@gmail.com>
     - github.com/Hulenkius/rime_dongbbin
@@ -83,6 +83,7 @@ speller:
     - derive/v/hhu/
     - xform/uu/u/				# 去掉ɸ、β產出的多餘u
 
+    - derive/([Z,C,s,Ƶ])([a,e,o])/$1u$2/	# 精組混淆開合
     - derive/ɛn/an/				# 混淆ian、ien
 
     - xform/ə/e/				# 以下處理韻母
@@ -130,7 +131,6 @@ speller:
     - xform/H/h/
     - xform/Ħ/hh/
 
-    - derive/([z,c,s,zz])([a,e,o])/$1u$2/	# 精組混淆開合
     - derive/jj/xx/				# dʑ、z、b、d容錯
     - derive/zz/ss/
     - derive/bb/pp/
@@ -139,6 +139,13 @@ speller:
     - derive/([j,q,x,l,n])io([^u])/$1vo$2/
     - derive/^yo$/yuo/
     - derive/^yo$/yvo/
+
+    - derive/(.)([1-7])/$2$1/			# 以下聲調位置容錯\縮寫
+    - derive/(..)([1-7])/$2$1/
+    - derive/(...)([1-7])/$2$1/
+    - derive/(....)([1-7])/$2$1/
+    - derive/(.....)([1-7])/$2$1/
+    - derive/(......)([1-7])/$2$1/
 
 translator:
   dictionary: dongbbin

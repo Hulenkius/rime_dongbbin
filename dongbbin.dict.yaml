@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.11"
+version: "2024.12.111"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3837,6 +3837,7 @@ use_preset_vocabulary: true
 楸	tɕʰiəu1
 鰍	tɕʰiəu1
 曲	tɕʰiəu7
+麴	tɕʰiəu7
 篋	tɕʰiɛ7
 箋	tɕʰiɛn1
 殲	tɕʰiɛn1
@@ -3919,7 +3920,6 @@ use_preset_vocabulary: true
 屈	tɕʰy7
 祛	tɕʰy7
 蛐	tɕʰy⁷
-麴	tɕʰy7
 闃	tɕʰy7
 去	tɕʰy7*～世
 處	tɕʰy7*～所
@@ -4208,6 +4208,7 @@ use_preset_vocabulary: true
 進	tɕin2
 鏡	tɕin2
 勁	tɕin2*有～
+盡	tɕin2*⬅️dʑin6
 緊	tɕin3
 瑾	tɕin3
 槿	tɕin3
@@ -5662,6 +5663,7 @@ use_preset_vocabulary: true
 暫	zan6
 賺	zan6
 𢯆	zan7*打，揍，擊
+嚐	zaŋ2
 常	zaŋ2
 徜	zaŋ2
 場	zaŋ2
@@ -5673,7 +5675,6 @@ use_preset_vocabulary: true
 裳	zaŋ2
 仗	zaŋ2
 長	zaŋ2*～短
-臟	zaŋ2*內～
 藏	zaŋ2*隱～
 攘	zaŋ3
 上	zaŋ6
@@ -5681,6 +5682,7 @@ use_preset_vocabulary: true
 丈	zaŋ6
 撞	zaŋ6
 尚	zaŋ6*和～
+臟	zaŋ6
 杖	zaŋ7
 尚	zaŋ7*高～
 藏	zaŋ7*西～
