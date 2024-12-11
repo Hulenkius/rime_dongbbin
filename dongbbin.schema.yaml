@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.12.111"
+  version: "2024.12.112"
   author:
     - hulenkius <hulenkius@gmail.com>
     - github.com/Hulenkius/rime_dongbbin
@@ -54,7 +54,7 @@ speller:
   delimiter: " '"
   algebra:
     - xform/(\*)(.*)$//				# 定位註釋範圍
-    - derive/([1,2,3,6,7])//			# 聲調
+    - derive/([1-7])//			# 聲調
 
     - xform/^tsʰ/C/				# 以下轉換聲母以便後續處理
     - xform/^ts/Z/
@@ -83,7 +83,7 @@ speller:
     - derive/v/hhu/
     - xform/uu/u/				# 去掉ɸ、β產出的多餘u
 
-    - derive/([Z,C,s,Ƶ])([a,e,o])/$1u$2/	# 精組混淆開合
+    - derive/([ZCsƵ])([aeo])/$1u$2/		# 精組混淆開合
     - derive/ɛn/an/				# 混淆ian、ien
 
     - xform/ə/e/				# 以下處理韻母
@@ -96,8 +96,8 @@ speller:
     - derive/(.)v(.|.*$)/$1u$2/
     - xform/ɿ/i/
 
-    - xform/^i(n|)([1,2,3,6,7]|)$/yi$1$2/	# 按漢拼規則寫i、u、ü
-    - xform/^u([1,2,3,6,7]|)$/wu$1/
+    - xform/^i(n|)([1-7]|)$/yi$1$2/		# 按漢拼規則寫i、u、ü
+    - xform/^u([1-7]|)$/wu$1/
     - xform/^i/y/
     - xform/^u/w/
     
@@ -135,10 +135,11 @@ speller:
     - derive/zz/ss/
     - derive/bb/pp/
     - derive/dd/tt/
-    - derive/([j,q,x,l,n])io([^u])/$1uo$2/	# 混淆io、üo
-    - derive/([j,q,x,l,n])io([^u])/$1vo$2/
+    - derive/([jqxln])io([^u])/$1uo$2/	# 混淆io、üo
+    - derive/([jqxln])io([^u])/$1vo$2/
     - derive/^yo$/yuo/
     - derive/^yo$/yvo/
+    - derive/^ng/u/				# ŋ簡碼
 
     - derive/(.)([1-7])/$2$1/			# 以下聲調位置容錯\縮寫
     - derive/(..)([1-7])/$2$1/
@@ -157,7 +158,8 @@ translator:
   always_show_comments: true
   preedit_format:
     - xform/([nljqxy])(v|u)/$1ü/
-    - xform/lü([a,e])n/lu$1n/
+    - xform/lü(a|e)n/lu$1n/
+    - xform/^u/ng/
     - xform/1/¹/
     - xform/2/²/
     - xform/3/³/
