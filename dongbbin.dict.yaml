@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.111"
+version: "2024.12.112"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -28,25 +28,16 @@ use_preset_vocabulary: true
 □	bie2*顫抖
 □	i2*～家：怎麼
 □	ie3*對
-□	in3*怕～人：害羞
 □	kai1*～起腦殼：低着頭
-□	kʰoŋ3*～起腦殼：低着頭
 □	lan1*～泡的：很鬆軟
 □	lei1*～死噠：喫多了無油的東西不舒服
-□	lei3*掉落
-□	ləu3*沾上(泥、醬)
-□	lia2*手～咖噠：提東西麻木了
 □	lia3*～kuai3：不愛乾淨
 □	lia7*～虧：喫虧，～東西：口氣不太好
 □	liɛn1*蜷縮
 □	lo3*舌頭在嘴裏攪動食物
-□	maŋ1*～酸的：非常酸
+□	maŋ1*～酸的：很酸
 □	ɸei7*～鹹的：很鹹
-□	saŋ1*～死噠：膩死人了
-□	tɕʰiəu2*噴～：噴嚏
-□	tɕʰiəu7*手～氣噠：手扭傷了
 □	tɕia1*巴～的：沒有□的味道
-□	tɕin2*凝固，結冰
 啊	a*語氣詞
 阿	a1*～姨
 啊	a7*發語辭，這，那，的
@@ -1249,8 +1240,6 @@ use_preset_vocabulary: true
 堙	iɛn1
 閼	iɛn1
 燕	iɛn1*～京
-然	iɛn2
-燃	iɛn2
 涎	iɛn2
 延	iɛn2
 炎	iɛn2
@@ -1258,6 +1247,8 @@ use_preset_vocabulary: true
 檐	iɛn2
 鹽	iɛn2
 芫	iɛn2*～荽菜
+然	iɛn2*⬅️ȵ-
+燃	iɛn2*⬅️ȵ-
 愆	iɛn3
 衍	iɛn3
 掩	iɛn3
@@ -1265,8 +1256,8 @@ use_preset_vocabulary: true
 演	iɛn3
 魘	iɛn3
 奄	iɛn3*～一息
-巘	iɛn3*⬅️ȵi-
-讞	iɛn3*⬅️ȵi-
+巘	iɛn3*⬅️ȵ-
+讞	iɛn3*⬅️ȵ-
 嚥	iɛn6
 鼹	iɛn7
 宴	iɛn7
@@ -1323,6 +1314,7 @@ use_preset_vocabulary: true
 影	in3
 潁	in3
 穎	in3*⬅️y-
+赧	in3*怕～人：害羞
 刃	in7
 任	in7
 妊	in7
@@ -1334,7 +1326,7 @@ use_preset_vocabulary: true
 胤	in7
 映	in7
 應	in7
-認	in7*⬅️ȵin6
+認	in7*⬅️ȵ-6
 諾	io7
 若	io7
 偌	io7
@@ -1621,6 +1613,7 @@ use_preset_vocabulary: true
 崆	kʰoŋ3
 孔	kʰoŋ3
 恐	kʰoŋ3
+躬	kʰoŋ3*～起腦殼：低着頭
 控	kʰoŋ7
 枯	kʰu1
 骷	kʰu1
@@ -1926,6 +1919,7 @@ use_preset_vocabulary: true
 屢	lei3
 褸	lei3
 累	lei3*～積
+漏	lei3*掉落⬅️ləu3
 淚	lei6
 類	lei6
 擂	lei6*打～
@@ -1974,6 +1968,7 @@ use_preset_vocabulary: true
 擄	ləu3
 櫓	ləu3
 縷	ləu3
+攎	ləu3*沾上(泥、醬)
 陋	ləu6
 漏	ləu6
 鸕	ləu6
@@ -2065,7 +2060,9 @@ use_preset_vocabulary: true
 率	li7*速～
 嗲	lia1
 立	lia2*～唧(立即)：剛剛
+累	lia2*手～咖噠：提東西麻木了
 咧	lia3*吐(舌)
+累	lia7*～死噠
 躒	lia7*勞累(或作累)
 莨	liaŋ2
 良	liaŋ2
@@ -2619,7 +2616,9 @@ use_preset_vocabulary: true
 年	ȵiɛn2
 鮎	ȵiɛn2
 汧	ȵiɛn2
+然	ȵiɛn2
 髯	ȵiɛn2
+燃	ȵiɛn2
 言	ȵiɛn2
 妍	ȵiɛn2
 閆	ȵiɛn2
@@ -2987,7 +2986,7 @@ use_preset_vocabulary: true
 繃	pən1*～斷：扯斷
 奔	pən1*～跑
 糞	ɸən2
-噴	ɸən2*～水，～嚏
+噴	ɸən2*～水，～啾
 本	pən3
 粉	ɸən3
 渾	ɸən3
@@ -3423,7 +3422,6 @@ use_preset_vocabulary: true
 剡	san7
 桑	saŋ1
 商	saŋ1
-傷	saŋ1
 殤	saŋ1
 熵	saŋ1
 觴	saŋ1
@@ -3431,6 +3429,7 @@ use_preset_vocabulary: true
 雙	saŋ1
 孀	saŋ1
 喪	saŋ1*～事
+傷	saŋ1*傷害；喫膩
 償	saŋ3
 搡	saŋ3
 嗓	saŋ3
@@ -3836,8 +3835,10 @@ use_preset_vocabulary: true
 蚯	tɕʰiəu1
 楸	tɕʰiəu1
 鰍	tɕʰiəu1
+啾	tɕʰiəu2*噴～：噴嚏
 曲	tɕʰiəu7
 麴	tɕʰiəu7
+㲃	tɕʰiəu7*手～氣噠：手扭傷了
 篋	tɕʰiɛ7
 箋	tɕʰiɛn1
 殲	tɕʰiɛn1
@@ -3950,6 +3951,7 @@ use_preset_vocabulary: true
 蠢	tɕʰyn3
 傾	tɕʰyn3
 頃	tɕʰyn3
+咀	tɕi*=嘴
 肌	tɕi1
 飢	tɕi1
 姬	tɕi1
@@ -3975,7 +3977,6 @@ use_preset_vocabulary: true
 己	tɕi3
 擠	tɕi3
 紀	tɕi3
-咀	tɕi*=嘴
 嘴	tɕi3
 濟	tɕi3*～～一堂
 幾	tɕi3*～個
@@ -4207,8 +4208,9 @@ use_preset_vocabulary: true
 唚	tɕin1*吮吸
 進	tɕin2
 鏡	tɕin2
-勁	tɕin2*有～
 盡	tɕin2*⬅️dʑin6
+㵾	tɕin2*冷；結冰
+勁	tɕin2*有～
 緊	tɕin3
 瑾	tɕin3
 槿	tɕin3
@@ -4234,8 +4236,8 @@ use_preset_vocabulary: true
 靖	tɕin7
 境	tɕin7
 競	tɕin7
+㵾	tɕin7
 勁	tɕin7*～敵
-𩇟	tɕin7*冷，涼
 腳	tɕio7
 角	tɕio7*一～錢
 覺	tɕio7*知～
@@ -5663,13 +5665,13 @@ use_preset_vocabulary: true
 暫	zan6
 賺	zan6
 𢯆	zan7*打，揍，擊
-嚐	zaŋ2
 常	zaŋ2
 徜	zaŋ2
 場	zaŋ2
 腸	zaŋ2
 嘗	zaŋ2
 嫦	zaŋ2
+嚐	zaŋ2
 償	zaŋ2
 牀	zaŋ2
 裳	zaŋ2
@@ -5679,10 +5681,10 @@ use_preset_vocabulary: true
 攘	zaŋ3
 上	zaŋ6
 緔	zaŋ6
+臟	zaŋ6
 丈	zaŋ6
 撞	zaŋ6
 尚	zaŋ6*和～
-臟	zaŋ6
 杖	zaŋ7
 尚	zaŋ7*高～
 藏	zaŋ7*西～
