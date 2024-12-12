@@ -42,4 +42,5 @@
 ---
 附：聲調表
 	
-![image](https://github.com/user-attachments/assets/39927e0c-65c2-4851-9ea4-248c519b6a0f)
+![Z0O1%Q9T}MRE@TJ5QHBXNET](https://github.com/user-attachments/assets/8fd5737c-a8f4-4089-b11a-eb525cca4214)
+
