@@ -40,6 +40,7 @@
 當「z、c、s、zz」後接「a、e、o」時，中間可以插入一個「u」。
 
 ---
-附：聲調表
-	
-![image](https://github.com/user-attachments/assets/39927e0c-65c2-4851-9ea4-248c519b6a0f)
+附：聲調表	
+![image](https://github.com/user-attachments/assets/ad420b63-536d-471b-b8e9-8cec47aef2f8)
+
+
