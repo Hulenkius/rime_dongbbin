@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.112"
+version: "2024.12.12"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -173,14 +173,14 @@ use_preset_vocabulary: true
 葡	bu2
 蒲	bu2
 圃	bu2
-葫	bu2*～蘆⬅️β-
 扶	bu2*⬅️β-
+葫	bu2*⬅️β-
 鬍	bu2*⬅️β-
 潽	bu2*液體沸騰溢出來了
 步	bu6
 部	bu6
 簿	bu6
-瓠	bu6*～瓜
+瓠	bu6*⬅️β-
 埠	bu6*泥～橋：地名
 西	ɕi1
 希	ɕi1
@@ -942,6 +942,7 @@ use_preset_vocabulary: true
 孩	ɣai2
 骸	ɣai2
 鞋	ɣai2
+還	ɣai2*～有
 唉	ɣai3
 亥	ɣai6
 氦	ɣai7
@@ -994,7 +995,6 @@ use_preset_vocabulary: true
 衡	ɣən2
 蘅	ɣən2
 宏	ɣən2
-弘	ɣən2*⬅️ɣoŋ2
 蕻	ɣən6*～子：菜薹
 恨	ɣən7
 杏	ɣən7
@@ -1303,7 +1303,7 @@ use_preset_vocabulary: true
 瀛	in2
 贏	in2
 鎔	in2*⬅️ioŋ2
-人	in2*⬅️n-
+人	in2*⬅️ȵ-
 忍	in3
 荏	in3
 引	in3
@@ -5393,12 +5393,9 @@ use_preset_vocabulary: true
 哈	xa3*傻(又寫作蟹)
 瞎	xa7
 孩	xai2
-還	xai2*～有
-鞋	xai2*⬅️ɣ-
 海	xai3
 醢	xai3
 害	xai6*～人
-亥	xai6*⬅️ɣ-
 害	xai7*～怕
 頇	xan1
 酣	xan1
@@ -5425,8 +5422,6 @@ use_preset_vocabulary: true
 郝	xau7*姓～
 嘿	xei3
 亨	xən1
-轟	xən1*⬅️xoŋ1
-虹	xən2*⬅️ɣoŋ2
 很	xən3
 狠	xən3
 吼	xəu3
@@ -5924,6 +5919,7 @@ use_preset_vocabulary: true
 鰉	βaŋ2
 狂	βaŋ2*～犬病
 簧	βaŋ2*彈～
+肥	βei2
 回	βei2
 茴	βei2
 迴	βei2
@@ -5932,7 +5928,6 @@ use_preset_vocabulary: true
 逵	βei2
 馗	βei2
 夔	βei2
-肥	βei6
 櫃	βei6
 匯	βei6
 會	βei6
@@ -5972,7 +5967,6 @@ use_preset_vocabulary: true
 馮	βoŋ2
 縫	βoŋ2～紉
 縫	βoŋ6*～隙
-咐	βu
 猢	βu1
 扶	βu2
 芙	βu2
@@ -5990,12 +5984,15 @@ use_preset_vocabulary: true
 糊	βu2
 醐	βu2
 鬍	βu2
+葫	βu2*～蘆
 浮	βu2*～萍
-腐	βu3*豆～
+咐	βu6
 父	βu6
 駙	βu6
 戶	βu6
 扈	βu6
+瓠	βu6*～瓜
+腐	βu6*豆～
 負	βu7
 婦	βu7
 互	βu7
