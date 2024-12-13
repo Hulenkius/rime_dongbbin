@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.131"
+version: "2024.12.132"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2970,6 +2970,7 @@ use_preset_vocabulary: true
 箅	pei4
 廢	ɸei4
 吠	ɸei4
+喙	ɸei4
 狒	ɸei4
 沸	ɸei4
 痱	ɸei4
@@ -3361,7 +3362,6 @@ use_preset_vocabulary: true
 笏	ɸu4
 茯	ɸu4*～磚
 扈	ɸu4*⬅️βu5
-喙	ɸui4
 沙	sa1
 砂	sa1
 莎	sa1
