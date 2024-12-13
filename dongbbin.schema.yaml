@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.12.113"
+  version: "2024.12.131"
   author:
     - hulenkius <hulenkius@gmail.com>
     - github.com/Hulenkius/rime_dongbbin
@@ -50,11 +50,11 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba12367
+  alphabet: zyxwvutsrqponmlkjihgfedcba12345
   delimiter: " '"
   algebra:
     - xform/(\*)(.*)$//				# 定位註釋範圍
-    - derive/([1-7])//			# 聲調
+    - derive/([1-5])//			# 聲調
 
     - xform/^tsʰ/C/				# 以下轉換聲母以便後續處理
     - xform/^ts/Z/
@@ -96,8 +96,8 @@ speller:
     - derive/(.)v(.|.*$)/$1u$2/
     - xform/ɿ/i/
 
-    - xform/^i(n|)([1-7]|)$/yi$1$2/		# 按漢拼規則寫i、u、ü
-    - xform/^u([1-7]|)$/wu$1/
+    - xform/^i(n|)([1-5]|)$/yi$1$2/		# 按漢拼規則寫i、u、ü
+    - xform/^u([1-5]|)$/wu$1/
     - xform/^i/y/
     - xform/^u/w/
     
@@ -141,12 +141,13 @@ speller:
     - derive/^yo$/yvo/
     - derive/^ng/u/				# ŋ簡碼
 
-    - derive/(.)([1-7])/$2$1/			# 以下聲調位置容錯\縮寫
-    - derive/(..)([1-7])/$2$1/
-    - derive/(...)([1-7])/$2$1/
-    - derive/(....)([1-7])/$2$1/
-    - derive/(.....)([1-7])/$2$1/
-    - derive/(......)([1-7])/$2$1/
+    #- derive/^(.*)([1-5])/$2/
+    - derive/(.)([1-5])/$2$1/			# 以下聲調位置容錯\縮寫
+    - derive/(..)([1-5])/$2$1/
+    - derive/(...)([1-5])/$2$1/
+    - derive/(....)([1-5])/$2$1/
+    - derive/(.....)([1-5])/$2$1/
+    - derive/(......)([1-5])/$2$1/
 
 translator:
   dictionary: dongbbin
@@ -163,15 +164,15 @@ translator:
     - xform/1/¹/
     - xform/2/²/
     - xform/3/³/
-    - xform/6/⁶/
-    - xform/7/⁷/
+    - xform/4/⁴/
+    - xform/5/⁵/
   comment_format:
     - xform/\*/	/
     - xform/1/¹/
     - xform/2/²/
     - xform/3/³/
-    - xform/6/⁶/
-    - xform/7/⁷/
+    - xform/4/⁴/
+    - xform/5/⁵/
 
 reverse_lookup:
   dictionary: cangjie5
