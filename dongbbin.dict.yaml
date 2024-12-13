@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.12"
+version: "2024.12.13"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -106,7 +106,7 @@ use_preset_vocabulary: true
 槃	bɤn2
 磐	bɤn2
 盤	bɤn2
-彭	bɤn2*⬅️boŋ2
+彭	bɤn2*⬅️-oŋ
 伴	bɤn6*打～：結伴
 拌	bɤn6*攪～
 伴	bɤn7*陪～
@@ -240,7 +240,7 @@ use_preset_vocabulary: true
 潟	ɕi7
 恤	ɕi7
 婿	ɕi7
-覡	ɕi7*⬅️ʑi7/6
+覡	ɕi7*⬅️ʑ-
 吸	ɕi7*呼～
 些	ɕia1
 瀉	ɕia2
@@ -350,7 +350,7 @@ use_preset_vocabulary: true
 線	ɕiɛn2
 憲	ɕiɛn2
 鏾	ɕiɛn2*～雞：閹雞
-現	ɕiɛn2*⬅️dʑiɛn6
+現	ɕiɛn2*⬅️dʑ-6
 冼	ɕiɛn3
 險	ɕiɛn3
 玁	ɕiɛn3
@@ -449,7 +449,7 @@ use_preset_vocabulary: true
 雪	ɕye7
 血	ɕye7
 謔	ɕye7
-薛	ɕye7*⬅️ɕie7
+薛	ɕye7*⬅️ɕi-
 鱈	ɕyɛ7
 酸	ɕyɛn1
 掀	ɕyɛn1
@@ -684,6 +684,7 @@ use_preset_vocabulary: true
 斷	duɤn6
 椴	duɤn7
 煅	duɤn7
+鍛	duɤn7*⬅️6
 疇	dzəu2
 期	dʑi2
 祁	dʑi2
@@ -945,7 +946,9 @@ use_preset_vocabulary: true
 還	ɣai2*～有
 唉	ɣai3
 亥	ɣai6
+害	ɣai6*～人
 氦	ɣai7
+害	ɣai7*～怕
 邯	ɣan2
 含	ɣan2
 函	ɣan2
@@ -957,6 +960,7 @@ use_preset_vocabulary: true
 閒	ɣan2
 銜	ɣan2
 汗	ɣan6
+旱	ɣan6
 悍	ɣan6
 菡	ɣan6
 焊	ɣan6
@@ -964,6 +968,7 @@ use_preset_vocabulary: true
 翰	ɣan6
 頷	ɣan6
 憾	ɣan6
+瀚	ɣan6
 莧	ɣan6
 陷	ɣan6*～進去
 捍	ɣan7
@@ -1055,7 +1060,7 @@ use_preset_vocabulary: true
 椅	i3
 旖	i3
 以	i3*～後
-薏	i3*⬅️i7
+薏	i3*⬅️-7
 易	i3*容～
 易	i6*～得
 一	i7
@@ -1302,8 +1307,8 @@ use_preset_vocabulary: true
 嬴	in2
 瀛	in2
 贏	in2
-鎔	in2*⬅️ioŋ2
 人	in2*⬅️ȵ-
+鎔	in2*⬅️-oŋ
 忍	in3
 荏	in3
 引	in3
@@ -1312,9 +1317,9 @@ use_preset_vocabulary: true
 隱	in3
 郢	in3
 影	in3
-潁	in3
 穎	in3*⬅️y-
 赧	in3*怕～人：害羞
+潁	in3⬅️y-
 刃	in7
 任	in7
 妊	in7
@@ -1702,7 +1707,7 @@ use_preset_vocabulary: true
 廓	ko7
 角	ko7*～落
 過	ko7*～去(以前)
-幗	ko7*⬅️kuɤ7
+幗	ko7*⬅️-uɤ
 咯	ko7*象聲詞
 個	ko7*這
 工	koŋ1
@@ -1919,7 +1924,7 @@ use_preset_vocabulary: true
 屢	lei3
 褸	lei3
 累	lei3*～積
-漏	lei3*掉落⬅️ləu3
+漏	lei3*掉落⬅️-əu
 淚	lei6
 類	lei6
 擂	lei6*打～
@@ -1976,12 +1981,6 @@ use_preset_vocabulary: true
 路	ləu6
 露	ləu6
 鋁	ləu6*～鐵罐：鋁鍋
-樓	ləu6*⬅️-2
-盧	ləu6*⬅️-2
-蘆	ləu6*⬅️-2
-廬	ləu6*⬅️-2
-爐	ləu6*⬅️-2
-驢	ləu6*⬅️-2
 鑥	ləu6*銹
 六	ləu7
 陸	ləu7
@@ -2206,7 +2205,7 @@ use_preset_vocabulary: true
 鑼	lo2
 裸	lo3
 蠃	lo3
-卵	lo3*⬅️luɤn3
+卵	lo3*⬅️-uɤn
 摞	lo6
 鉻	lo7
 駱	lo7
@@ -2308,7 +2307,7 @@ use_preset_vocabulary: true
 懋	mau7
 袤	mau7*⬅️-6
 貿	mau7*⬅️-6
-痗	mei1*心情沮喪，臉色不好。
+痗	mei1*心情沮喪，臉色不好
 玫	mei2
 枚	mei2
 眉	mei2
@@ -2354,9 +2353,9 @@ use_preset_vocabulary: true
 陌	mɤ7
 墨	mɤ7
 默	mɤ7
-滅	mɤ7*⬅️-ie7
-末	mɤ7*⬅️-o7
-沫	mɤ7*⬅️-o7
+滅	mɤ7*⬅️-ie
+末	mɤ7*⬅️-o
+沫	mɤ7*⬅️-o
 瞞	mɤn2
 滿	mɤn3
 蟎	mɤn3
@@ -2367,8 +2366,8 @@ use_preset_vocabulary: true
 𥽰	mi1*～融的：很碎
 咪	mi1*貓～～叫
 縻	mi2
-糜	mi2*⬅️mei2
-麋	mi2*⬅️mei2
+糜	mi2*⬅️-ei
+麋	mi2*⬅️-ei
 米	mi3
 汨	mi7
 泌	mi7
@@ -2475,7 +2474,7 @@ use_preset_vocabulary: true
 慕	mo7
 暮	mo7
 穆	mo7
-陌	mo7*⬅️mɤ7
+陌	mo7*⬅️-ɤ
 蒙	moŋ1*～細的：很細
 蒙	moŋ2
 檬	moŋ2
@@ -2787,8 +2786,8 @@ use_preset_vocabulary: true
 鱷	ŋo7
 臥	ŋo7
 閼	ŋo7
-扼	ŋo7*⬅️-ɤ7
-軛	ŋo7*⬅️-ɤ7
+扼	ŋo7*⬅️-ɤ
+軛	ŋo7*⬅️-ɤ
 堊	ŋo7*白～紀
 鍔	ŋo7*蔡～
 鶚	ŋo7*高～
@@ -3068,16 +3067,16 @@ use_preset_vocabulary: true
 拚	pʰən7*～命
 迫	pʰɤ7
 魄	pʰɤ7
-粕	pʰɤ7*⬅️-o6
-潑	pʰɤ7*⬅️-o7
+潑	pʰɤ7*⬅️-o
+粕	pʰɤ7*⬅️-o
 拍	pʰɤ7*節～
 泊	pʰɤ7*梁山～
 潘	pʰɤn1
 判	pʰɤn2
-拌	pʰɤn3*⬅️bɤn6
+拌	pʰɤn3*⬅️b-6
 判	pʰɤn7
 叛	pʰɤn7
-拌	pʰɤn7*⬅️bɤn6
+拌	pʰɤn7*⬅️b-6
 丕	pʰi1
 砒	pʰi1
 屁	pʰi2
@@ -3182,7 +3181,7 @@ use_preset_vocabulary: true
 臂	pi7
 璧	pi7
 壁	pi7*～畫
-潷	pi7*⬅️-ie7
+潷	pi7*⬅️-ie
 轡	pi7*馬～市：地名
 碧	pia7
 壁	pia7
@@ -3217,7 +3216,7 @@ use_preset_vocabulary: true
 匾	piɛn3
 貶	piɛn3
 變	piɛn7*～化
-汴	piɛn7*⬅️biɛn6
+汴	piɛn7*⬅️b-6
 崩	pin1
 彬	pin1
 斌	pin1
@@ -3301,13 +3300,6 @@ use_preset_vocabulary: true
 乎	ɸu1
 呼	ɸu1
 戽	ɸu2*～水
-蒲	ɸu2*⬅️b-
-芙	ɸu2*⬅️β-
-符	ɸu2*⬅️β-
-弧	ɸu2*⬅️β-
-胡	ɸu2*⬅️β-
-壺	ɸu2*⬅️β-
-湖	ɸu2*⬅️β-
 布	pu2*棉～
 補	pu3
 拊	ɸu3
@@ -3721,7 +3713,6 @@ use_preset_vocabulary: true
 擋	taŋ3
 黨	taŋ3
 檔	taŋ3*掛～
-宕	taŋ7*⬅️d-
 刀	tau1
 叨	tau1
 到	tau2*～哪裏去
@@ -4101,7 +4092,7 @@ use_preset_vocabulary: true
 茭	tɕiau1*～白
 跤	tɕiau1*摔～
 叫	tɕiau2
-藠	tɕiau2*⬅️dʑiau6
+藠	tɕiau2*⬅️dʑ-6
 狡	tɕiau3
 皎	tɕiau3
 絞	tɕiau3
@@ -4208,7 +4199,7 @@ use_preset_vocabulary: true
 唚	tɕin1*吮吸
 進	tɕin2
 鏡	tɕin2
-盡	tɕin2*⬅️dʑin6
+盡	tɕin2*⬅️dʑ-6
 㵾	tɕin2*冷；結冰
 勁	tɕin2*有～
 緊	tɕin3
@@ -4711,7 +4702,7 @@ use_preset_vocabulary: true
 脹	tsaŋ2
 賬	tsaŋ2
 壯	tsaŋ2
-丈	tsaŋ2*⬅️zaŋ6
+丈	tsaŋ2*⬅️z-6
 掌	tsaŋ3
 漲	tsaŋ3
 長	tsaŋ3*生～
@@ -4744,7 +4735,7 @@ use_preset_vocabulary: true
 沼	tsau3*泥～
 棹	tsau7
 曌	tsau7
-肇	tsau7*⬅️dʑiau6
+肇	tsau7*⬅️dʑi-6
 兆	tsau7*病～
 追	tsei1
 椎	tsei1
@@ -4809,7 +4800,7 @@ use_preset_vocabulary: true
 症	tsən7
 證	tsən7
 皴	tsən7*～紋
-朕	tsən7*⬅️dzən6
+朕	tsən7*⬅️dz-6
 陣	tsən7*布～
 舟	tsəu1
 州	tsəu1
@@ -5229,7 +5220,6 @@ use_preset_vocabulary: true
 炙	tsɿ7*膾～人口
 端	tuɤn1
 短	tuɤn3
-鍛	tuɤn7*⬅️duɤn6
 鵭	u1
 污	u1
 巫	u1
@@ -5273,7 +5263,7 @@ use_preset_vocabulary: true
 窪	ua1
 哇	ua1*象聲詞
 娃	ua2
-茶	ua2*喫～：喝水，小兒語⬅️zua2
+茶	ua2*喫～：喝水，小兒語⬅️z-
 瓦	ua3
 搲	ua3*舀
 猾	ua7
@@ -5392,21 +5382,17 @@ use_preset_vocabulary: true
 嚇	xa2*～一跳
 哈	xa3*傻(又寫作蟹)
 瞎	xa7
-孩	xai2
 海	xai3
 醢	xai3
-害	xai6*～人
-害	xai7*～怕
 頇	xan1
 酣	xan1
 憨	xan1
 鼾	xan1
 罕	xan3
 喊	xan3
-旱	xan7
 漢	xan7
-瀚	xan7
-撼	xan7*⬅️ɣan6
+撼	xan7*⬅️ɣ-6
+瀚	xan7*⬅️ɣ-6
 夯	xaŋ1*打～
 蒿	xau1
 薅	xau1
@@ -5461,8 +5447,8 @@ use_preset_vocabulary: true
 蠖	xo7
 餄	xo7
 騞	xo7*～然
-核	xo7*⬅️-ɤ7
-覈	xo7*⬅️-ɤ7
+核	xo7*⬅️-ɤ
+覈	xo7*⬅️-ɤ
 荷	xo7*薄～
 烘	xoŋ1
 轟	xoŋ1
@@ -5604,6 +5590,7 @@ use_preset_vocabulary: true
 雲	yn2
 篔	yn2
 尹	yn3
+潁	yn3
 穎	yn3
 永	yn3
 湧	yn3
@@ -5986,8 +5973,9 @@ use_preset_vocabulary: true
 鬍	βu2
 葫	βu2*～蘆
 浮	βu2*～萍
-咐	βu6
+蒲	βu2*⬅️b-
 父	βu6
+咐	βu6
 駙	βu6
 戶	βu6
 扈	βu6
