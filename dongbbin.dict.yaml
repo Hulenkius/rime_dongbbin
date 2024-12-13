@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.132"
+version: "2024.12.133"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -65,7 +65,7 @@ use_preset_vocabulary: true
 旁	baŋ2
 龐	baŋ2
 磅	baŋ2*～礡
-膀	baŋ2～胱
+膀	baŋ2*～胱
 蚌	baŋ5
 傍	baŋ5
 謗	baŋ5
@@ -467,7 +467,7 @@ use_preset_vocabulary: true
 眩	ɕyɛn2
 楦	ɕyɛn2
 鉉	ɕyɛn2
-蒜	ɕyɛn2⬅️suɤn2
+蒜	ɕyɛn2*⬅️suɤn2
 蘚	ɕyɛn3
 癬	ɕyɛn3
 渲	ɕyɛn4
@@ -1321,7 +1321,7 @@ use_preset_vocabulary: true
 影	in3
 穎	in3*⬅️y-
 赧	in3*怕～人：害羞
-潁	in3⬅️y-
+潁	in3*⬅️y-
 刃	in4
 任	in4
 妊	in4
@@ -3503,7 +3503,7 @@ use_preset_vocabulary: true
 擤	sən3
 宙	sən3
 沈	sən3*姓
-隼	sən3⬅️ɕyn3
+隼	sən3*⬅️ɕyn3
 諶	sən4
 腎	sən4
 蜃	sən4
@@ -4507,7 +4507,7 @@ use_preset_vocabulary: true
 跳	tʰiau2*～舞
 窕	tʰiau3
 斢	tʰiau3*調換
-挑	tʰiau3～戰
+挑	tʰiau3*～戰
 眺	tʰiau4
 跳	tʰiau4*蹦蹦～～
 迭	tʰie4
@@ -5960,7 +5960,7 @@ use_preset_vocabulary: true
 浣	βɤn5*～洗
 逢	βoŋ2
 馮	βoŋ2
-縫	βoŋ2～紉
+縫	βoŋ2*～紉
 縫	βoŋ5*～隙
 猢	βu1
 扶	βu2
@@ -5982,7 +5982,7 @@ use_preset_vocabulary: true
 葫	βu2*～蘆
 浮	βu2*～萍
 蒲	βu2*⬅️b-
-腐	βu3*豆～⬅️5
+腐	βu3*豆～⬅️-5
 負	βu4
 婦	βu4
 互	βu4
