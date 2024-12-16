@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.16"
+version: "2024.12.161"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1764,6 +1764,7 @@ use_preset_vocabulary: true
 涵	ɣan2
 寒	ɣan2
 韓	ɣan2
+鹹	ɣan2
 咸	ɣan2
 閒	ɣan2
 銜	ɣan2
