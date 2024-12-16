@@ -2,10 +2,12 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.14"
+version: "2024.12.16"
 sort: by_weight
 use_preset_vocabulary: true
 ...
+
+# 詞彙
 
 湘語
 湖南話
@@ -18,31 +20,822 @@ use_preset_vocabulary: true
 東坪
 東坪鎮
 
-咖噠
-媠媠
+安人
+案板
+疤子
+把把
+爸爸
+白菜
+拜堂
+板凳
+棒棒
+包菜
+包子
+保佑
+背心
+背心
+被窩
+本錢
+本子
+鼻孔
+鼻頭
+邊邊
+扁擔
+便宜
+辮子
+婊子
+別個
+冰棒
+冰雹
+伯伯
+伯母
+伯娘
+跛子
+不會
+不會
+不快
+不是
+不熟
+蠶豆
+蠶子
+草狗
+插定
+插田
+茶葉
+唱歌
+扯到
+扯談
+吃藥
+喫虧
+喫虧
+抽廂
+出來
+出門
+出去
+出月
+鋤頭
+廚師
+櫥子
+畜豬
+窗子
+牀鋪
+錘公
+錘公
+茈角
+祠堂
+村子
+撮箕
+打顫
+打工
+打鼾
+打架
+打醮
+打屁
+打算
+打針
+大方
+大麥
+大門
+大勢
+大水
+大蒜
+袋公
+當手
+道人
+稻草
+地方
+地灰
+地震
+滴滴
+笛子
+弟兄
+第一
+癲子
+點心
+電筒
+墊被
+簟子
+調羹
+調皮
+爹爹
+釘子
+冬至
+東西
+動棋
+豆腐
+豆漿
+豆娘
+讀書
+肚裏
+肚子
+斷氣
+碓孔
+對啵
+對門
+媠娘
+媠娘
 媠爺
-嫁嫁
+屙尿
+屙屎
+額殼
+耳洞
+耳子
+二胡
+二兩
+二十
+發氣
+發燒
+反正
+飯店
+枋子
+房間
+粉子
+風箏
+蜂糖
+蜂子
+蓋蓋
+趕場
+缸子
+鋼筆
+高粱
+高上
+高上
+告訴
+哥哥
+割禾
+鴿子
+個把
+個把
+箇個
+箇裏
+更加
+工資
+狗蝨
+姑爺
+谷咖
+穀子
+瓜瓢
+掛到
+乖巧
+滾盤
+鍋子
+鍋子
+過年
+哈包
+旱菸
+好多
+好多
+何些
+河邊
+核桃
+橫樑
+喉嚨
+猴子
+後背
+後背
+後日
+葫蘆
+蝴蝶
+鬍子
+花生
+划拳
+淮山
+黃豆
+黃瓜
+黃酒
+灰塵
+灰麪
+回來
+雞蛋
+雞公
+雞婆
+幾個
+記得
+家娘
+家爺
+傢俱
+嫁奩
+肩膊
+剪刀
+撿拾
+毽子
+將將
+匠人
+醬油
+角角
+腳地
+腳地
+腳魚
+腳豬
+餃子
+教室
+街上
+結婚
+姐夫
+姐姐
+姐姐
+戒指
+今朝
+進去
+經牢
+頸骨
+韭菜
+舅舅
+舅母
+橘子
+菌子
+開邊
+開水
+看病
+看牛
+看堂
+考試
+可以
+釦子
+褲腳
+褲子
+擓肚
+快活
+筷子
+邋遢
+辣椒
+蠟燭
+籃盤
+勞爲
+老表
+老蟲
+老弟
+老實
+冷水
+梨子
+鯉魚
+蓮花
+鐮刀
+涼噠
+涼快
+鄰舍
+鱗甲
+靈牌
+流氓
+柳樹
+龍狗
+聾子
+樓磴
+爐鍋
+路費
+露水
+騾子
+蘿蔔
+籮筐
+鑼鼓
+落來
+落落
+落雨
+驢子
+旅店
+旅社
+綠豆
+媽媽
+麻屄
+麻雀
+麻油
+螞□
+罵架
+麥稈
+麥子
+貓兒
+毛筆
+毛毛
+毛毛
+茅廁
+冇得
+冇在
+帽子
+麼子
+麼子
+眉毛
+梅花
+媒婆
+妹唧
+妹妹
+門檻
+米酒
+棉花
+棉衣
+面盆
+明朝
+磨子
+饃饃
+末尾
+墨汁
+默神
+牡丹
+姆媽
+那個
+那裏
+那樣
+奶奶
+奶子
+男人
+南瓜
+難過
+腦殼
+鬧熱
+尼姑
+泥巴
+泥巴
+你們
+年初
+年底
+年糕
+年曆
+年輕
+鳥鳥
+捏白
+寧願
+牛牯
+牛㸺
+農民
+弄菜
+弄子
+怕醜
+螃蟹
+炮竹
+朋友
+皮蛋
+屁股
+屁眼
+漂亮
+瓶子
+蘋果
+仆着
+鋪子
+菩薩
+欺負
+起火
+起來
+起來
+起屋
+起子
+氣色
+氣味
+鉛筆
+前地
+前日
+鉗子
+錢紙
+□水
+茄子
+芹菜
+勤快
+親戚
+熱噠
+熱和
+熱水
+認得
+日裏
+日食
+日頭
+肉豬
+如今
+三十
+散學
+掃巴
+掃地
+嫂嫂
+殺豬
+篩子
+杉木
+上墳
+上去
+燒酒
+舌子
+射尿
+嬸嬸
+生日
+失本
+失格
+師傅
+石榴
+食指
+時格
+市場
+柿子
+收成
+手臂
+手帕
+手圈
+叔叔
+書包
+漱口
+水溝
+水果
+水泥
+水災
+絲瓜
+松樹
+算盤
+隨便
+筍子
+索利
+索子
+他們
+颱風
+太陽
+罈子
+探脈
+堂客
+桃子
+討厭
+特別
+特意
+剃頭
+天亮
+天氣
+天天
+跳繩
+聽你
+頭髮
+頭絲
+圖書
+兔子
+襪子
+外公
+外婆
+外甥
+外孫
+忘記
+圍巾
+圍裙
+尾巴
+味道
+蚊子
+萵筍
+我們
+我們
+齷齪
+屋裏
+屋柱
+吸鐵
+稀飯
+媳婦
+洗澡
+喜鵲
+瞎子
+蝦公
+蝦蟆
+下巴
+下水
+線車
+相目
+相信
+香菇
+鄉里
+小名
+小氣
+曉得
+鞋子
+芯子
+星星
+星子
+杏子
+興碰
+雄雞
+絮被
+學徒
+學校
+丫開
+鴨子
+牙齒
+伢唧
+啞包
+眼公
+眼紅
+眼睛
+眼淚
+演戲
+硯池
+洋蔥
+洋火
+洋鹼
+洋油
+陽曆
+要得
+要是
+鑰匙
+爺娘
+爺爺
+爺爺
+葉子
+一百
+一路
+一路
+一面
+一千
+一世
+一天
+一萬
+衣衫
+衣袖
+姨夫
+姨娘
+姨爺
+移咖
+移咖
+以後
+以前
+椅子
+易得
+翼胛
+陰曆
+銀杏
+應該
+油菜
+油條
+有空
+有錢
+右手
+柚子
+玉米
+芋頭
+月亮
+運氣
+栽菜
+再見
+棗子
+竈屋
+帳子
+爪子
+枕頭
+正月
+芝麻
+直爽
+侄人
+指甲
+紙菸
+中間
+中藥
+中指
+重孫
+豬肝
+豬腳
+豬欄
+豬血
+豬油
+竹子
+煮飯
+住房
+注意
+桌子
+姊妹
+自家
+總共
+糉子
+嘴巴
+昨日
+左手
+做路
+做媒
+做夢
+白楊樹
+半夜些
+壁蛛子
+邊些些
+病咖噠
+不認得
+不曉得
+猜謎子
+菜豌豆
+差滴滴
+長腳蚊
+扯根菜
+喫夜飯
+喫早飯
+喫汁兒
+喫中飯
+臭咖噠
+吹牛皮
+打擺子
+打吊針
+打哈欠
+打麻將
+打哦嗬
+打噴啾
+打撲克
+大不該
+獃麻屄
+單身佬
+墊絮被
+豆腐腦
+豆角子
+獨腳車
+肚臍子
+肚子痛
+肚子瀉
+端午節
+對不住
+犯咖噠
+放人家
+肥泥公
+甘蔗稈
+甘蔗梗
+搞麼子
+隔奶子
+箇咖裏
+灌咖噠
+過咖噠
+何隻個
+何隻樣
+紅蘿蔔
+後地娘
+後地爺
+後年子
+狐狸朥
+花苞苞
+划得來
+鯽魚子
+尖栗子
+講故事
+講散方
+叫花子
+蠽蚊子
+今年子
+進枋子
+開山子
+開水瓶
+看八字
+擓噠肚
+擓肚婆
+來好事
+郎把公
+老弟嬸
+老人家
+老鼠子
+老鴉子
+𨈓叔
+鰱胖頭
+兩口人
+零星錢
+卵漿水
+馬鈴薯
+馬桶子
+螞蟻子
+麥李子
+貓公子
+貓娘子
+茅棚子
+媒人家
+妹郎子
+明年子
+哪一個
+奶膊子
+男人家
+泥水匠
+娘那屄
+尿片子
+捧卵泡
+七月半
+前夾年
+悄隔角
+切菜刀
+清明節
+蜻蛉公
+去年子
+熱衣子
+山坳坳
+上半日
+少滴滴
+蛇婆子
+生毛毛
+繩子衣
+蝨婆子
+十二月
+手指末
+梳頭髮
+薯腦殼
+耍魔術
+耍獅子
+雙胞胎
+水凼凼
+他的爺
+罈子菜
+堂客們
+討堂客
+天老爺
+田堰子
+腿把子
+駝背子
+外後日
+往年子
+圍裙子
+爲麼子
+我人爺
+我人爺
+無名指
+霧罩子
+西紅柿
+西裝褲
+膝頭古
+媳婦娘
+洗面水
+蝦蟆子
+下半日
+先前日
+向陽花
+心門口
+新郎公
+星期日
+絮衣衫
+尋死路
+芫荽菜
+岩砣古
+檐壁鼠
+眼珠子
+要不得
+夜咖噠
+夜馬格
+夜馬些
+一百五
+一下下
+一下下
+銀角子
+右手邊
+鬱起噠
+元宵節
+原子筆
+岳母娘
+嶽老子
+在月裏
+早門家
+賊牯子
+扎銀針
+侄兒子
+中時格
+豬娘子
+豬婆娘
+豬舌子
+豬崽崽
+走人家
+走人家
+走四方
+嘴巴皮
+最後背
+捘眼皮
+左手邊
+做介紹
+做生日
+做生意
 𨈓把戲
 𨈓把喞
+八月十五
+北方水餃
+病好些噠
+裁縫師傅
+大年初一
+大手指末
+道人先生
+爾老人家
+觀音娘娘
+和尚師傅
+開鋪子的
+老黃花女
+麼子當手
+麼子地方
+麼子時格
+木匠師傅
+娘那麻屄
+叔伯弟兄
+剃頭師傅
+天狗喫月
+晚手指末
+洗面手巾
+一百零五
+元宵砣子
+竈王菩薩
 
+# 單字
 □	bie2*顫抖
 □	i2*～家：怎麼
 □	ie3*對
 □	kai1*～起腦殼：低着頭
-□	lan1*～泡的：很鬆軟
+□	lan1*～泡：很鬆軟
 □	lei1*～死噠：喫多了無油的東西不舒服
 □	lia3*～kuai3：不愛乾淨
 □	lia4*～虧：喫虧，～東西：口氣不太好
 □	liɛn1*蜷縮
 □	lo3*舌頭在嘴裏攪動食物
-□	maŋ1*～酸的：很酸
-□	ɸei4*～鹹的：很鹹
-□	tɕia1*巴～的：沒有□的味道
-啊	a*語氣詞
+□	maŋ1*～酸：很酸
+□	ɸei4*～鹹：很鹹
+□	tɕʰiaŋ1*～水：口水
+□	tɕʰiau1*～伴：結伴⬅️聚?
+□	tɕia1*巴～：沒有□的味道
+□	tɕiau4*窮
+□	zɤ4*嘮叨
+啊	a
 阿	a1*～姨
 啊	a4*發語辭，這，那，的
 唉	ai
-欸	ai3*語氣詞
+欸	ai3
 扒	ba2
 耙	ba2
 杷	ba2
@@ -128,6 +921,7 @@ use_preset_vocabulary: true
 瓢	biau2
 朴	biau2
 屄	bie2
+嫳	bie2*顫抖
 便	biɛn2*～宜
 駢	biɛn2
 辨	biɛn4
@@ -152,6 +946,8 @@ use_preset_vocabulary: true
 並	bin4*⬅️-5
 並	bin5
 病	bin5
+憑	bin5*倚靠
+盤	bo2*⬅️-ɤn
 婆	bo2
 鄱	bo2
 帛	bo4
@@ -170,7 +966,7 @@ use_preset_vocabulary: true
 扶	bu2*⬅️β-
 葫	bu2*⬅️β-
 鬍	bu2*⬅️β-
-潽	bu2*液體沸騰溢出來了
+潽	bu2*液體沸溢
 匍	bu2
 莆	bu2
 菩	bu2
@@ -205,6 +1001,7 @@ use_preset_vocabulary: true
 細	ɕi2
 隙	ɕi2
 戲	ɕi2
+絮	ɕi2
 髓	ɕi3
 洗	ɕi3
 徙	ɕi3
@@ -347,7 +1144,7 @@ use_preset_vocabulary: true
 籼	ɕiɛn1
 暹	ɕiɛn1
 鮮	ɕiɛn1
-鏾	ɕiɛn2*～雞：閹雞
+騸	ɕiɛn2*～雞：閹雞
 現	ɕiɛn2*⬅️dʑ-5
 腺	ɕiɛn2
 線	ɕiɛn2
@@ -460,7 +1257,7 @@ use_preset_vocabulary: true
 萱	ɕyɛn1
 喧	ɕyɛn1
 諼	ɕyɛn1
-蒜	ɕyɛn2*⬅️suɤn2
+蒜	ɕyɛn2
 算	ɕyɛn2
 漩	ɕyɛn2
 璇	ɕyɛn2
@@ -496,6 +1293,7 @@ use_preset_vocabulary: true
 抬	dai2
 跆	dai2
 臺	dai2
+颱	dai2
 擡	dai2
 代	dai4
 殆	dai4
@@ -547,6 +1345,7 @@ use_preset_vocabulary: true
 萄	dau2
 啕	dau2
 淘	dau2
+綯	dau2*栓(牛羊)
 導	dau4
 蹈	dau4
 悼	dau4
@@ -658,7 +1457,7 @@ use_preset_vocabulary: true
 垛	do5
 舵	do5
 惰	do5
-媠	do5*姑媽
+媠	do5*姑，姨⬅️大
 墮	do5
 疼	doŋ2
 同	doŋ2
@@ -736,6 +1535,7 @@ use_preset_vocabulary: true
 霞	dʑia2
 邪	dʑia2
 斜	dʑia2
+㐄	dʑia5*跨越
 䠍	dʑia5*跨：～一腳
 下	dʑia5*～面
 夏	dʑia5
@@ -755,6 +1555,7 @@ use_preset_vocabulary: true
 象	dʑiaŋ5
 像	dʑiaŋ5
 橡	dʑiaŋ5
+嚼	dʑiau1
 較	dʑiau2
 劁	dʑiau2
 喬	dʑiau2
@@ -771,6 +1572,7 @@ use_preset_vocabulary: true
 校	dʑiau4
 藠	dʑiau5*～腦殼
 轎	dʑiau5
+撬	dʑiau5
 效	dʑiau5
 諧	dʑie2
 擷	dʑie4
@@ -816,6 +1618,7 @@ use_preset_vocabulary: true
 賤	dʑiɛn5
 踐	dʑiɛn5*～踏
 餞	dʑiɛn5*～行
+檻	dʑiɛn5
 現	dʑiɛn5
 鯨	dʑin2
 芹	dʑin2
@@ -862,6 +1665,7 @@ use_preset_vocabulary: true
 雛	dʑy2
 櫥	dʑy2
 儲	dʑy2
+捶	dʑy2
 槌	dʑy2
 錘	dʑy2
 蒟	dʑy2
@@ -883,6 +1687,7 @@ use_preset_vocabulary: true
 术	dʑy4*白～
 澍	dʑy4
 佇	dʑy4
+櫥	dʑy5*～子：櫃子
 苣	dʑy5
 苧	dʑy5
 豎	dʑy5
@@ -929,6 +1734,7 @@ use_preset_vocabulary: true
 順	dʑyn4*～序
 菌	dʑyn5*～子
 順	dʑyn5*～着走
+呃	e4*語氣詞，表疑問
 而	ɤ2
 兒	ɤ2
 鴯	ɤ2
@@ -1041,6 +1847,7 @@ use_preset_vocabulary: true
 猗	i1
 漪	i1
 醫	i1
+如	i2*～今：現在⬅️y2
 忻	i2
 噫	i2*語氣詞
 夷	i2
@@ -1064,7 +1871,7 @@ use_preset_vocabulary: true
 旖	i3
 易	i3*容～
 薏	i3*⬅️-4
-日	i4*～頭：太陽⬅️ȵ-
+日	i4*～頭：太陽⬅️n-
 一	i4
 揖	i4
 壹	i4
@@ -1134,6 +1941,7 @@ use_preset_vocabulary: true
 瘍	iaŋ2
 颺	iaŋ2
 養	iaŋ2
+贏	iaŋ2
 攘	iaŋ3
 養	iaŋ3
 癢	iaŋ3
@@ -1193,6 +2001,7 @@ use_preset_vocabulary: true
 爗	ie4
 靨	ie4
 乙	ie4
+翼	ie4*～胛：翅膀
 呦	iəu1
 幽	iəu1
 悠	iəu1
@@ -1237,7 +2046,6 @@ use_preset_vocabulary: true
 胭	iɛn1
 焉	iɛn1
 崦	iɛn1
-淹	iɛn1
 湮	iɛn1
 鄢	iɛn1
 煙	iɛn1
@@ -1247,8 +2055,8 @@ use_preset_vocabulary: true
 燕	iɛn1*～京
 堙	iɛn1
 閼	iɛn1
-然	iɛn2*⬅️ȵ-
-燃	iɛn2*⬅️ȵ-
+然	iɛn2*⬅️n-
+燃	iɛn2*⬅️n-
 涎	iɛn2
 延	iɛn2
 芫	iɛn2*～荽菜
@@ -1263,8 +2071,9 @@ use_preset_vocabulary: true
 琰	iɛn3
 演	iɛn3
 魘	iɛn3
-巘	iɛn3*⬅️ȵ-
-讞	iɛn3*⬅️ȵ-
+巘	iɛn3*⬅️n-
+堰	iɛn3*田～子：田埂
+讞	iɛn3*⬅️n-
 鼹	iɛn4
 晏	iɛn4*姓
 宴	iɛn4
@@ -1297,7 +2106,7 @@ use_preset_vocabulary: true
 鸚	in1
 蠅	in1
 癭	in1
-人	in2*⬅️ȵ-
+人	in2*⬅️n-
 壬	in2
 仁	in2
 鎔	in2*⬅️-oŋ
@@ -1329,7 +2138,7 @@ use_preset_vocabulary: true
 軔	in4
 飪	in4
 韌	in4
-認	in4*⬅️ȵ-5
+認	in4*⬅️n-5
 印	in4
 胤	in4
 映	in4
@@ -1387,6 +2196,7 @@ use_preset_vocabulary: true
 嫁	ka2
 駕	ka2*～船
 嘎	ka3*象聲詞
+家	ka3*自～：自己
 蟹	ka3*螃～
 尬	ka4
 痂	ka4
@@ -1401,6 +2211,7 @@ use_preset_vocabulary: true
 階	kai1
 街	kai1
 蓋	kai2
+趕	kai2*追趕
 戒	kai2
 界	kai2*畫～子：畫框
 改	kai3
@@ -1435,6 +2246,7 @@ use_preset_vocabulary: true
 趕	kan3
 橄	kan3
 擀	kan3
+間	kan3*中～
 揀	kan3*～菜
 減	kan3
 襉	kan3
@@ -1521,7 +2333,7 @@ use_preset_vocabulary: true
 揢	kʰa1*扼(或作柯)
 掐	kʰa1
 胯	kʰa2
-嘎	kʰa3*～白的：慘白
+嘎	kʰa3*～白：慘白
 咔	kʰa3*象聲詞
 卡	kʰa3
 掐	kʰa4
@@ -1712,6 +2524,7 @@ use_preset_vocabulary: true
 過	ko4*～去(以前)
 角	ko4*～落
 廓	ko4
+羮	koŋ1*調～
 工	koŋ1
 弓	koŋ1
 公	koŋ1
@@ -1771,7 +2584,7 @@ use_preset_vocabulary: true
 顧	ku4
 呱	kua1*象聲詞
 瓜	kua1
-掛	kua1*掛念
+掛	kua1*想念
 卦	kua2
 掛	kua2
 褂	kua2
@@ -1896,7 +2709,7 @@ use_preset_vocabulary: true
 崀	laŋ4
 浪	laŋ4*～漫
 浪	laŋ5*起～
-撈	lau1*～輕的：很輕
+撈	lau1*～輕：很輕
 撈	lau2
 牢	lau2
 勞	lau2
@@ -1907,6 +2720,7 @@ use_preset_vocabulary: true
 老	lau3
 佬	lau3
 姥	lau3
+朥	lau5*狐狸～：狐臭
 癆	lau5
 咧	le*表停頓、疑問
 雷	lei2
@@ -1977,6 +2791,7 @@ use_preset_vocabulary: true
 魯	ləu3
 擄	ləu3
 櫓	ləu3
+摝	ləu3*撈
 縷	ləu3
 六	ləu4
 陸	ləu4
@@ -1991,7 +2806,7 @@ use_preset_vocabulary: true
 璐	ləu4
 麓	ləu4
 鷺	ləu4
-綠	ləu4*綠色，藍色
+綠	ləu4
 陋	ləu5
 漏	ləu5
 鸕	ləu5
@@ -2003,7 +2818,8 @@ use_preset_vocabulary: true
 勒	lɤ4
 肋	lɤ4
 劣	lɤ4
-纍	li1*～胖的：很胖
+纍	li1*～胖：很胖
+雷	li2
 狸	li2
 梨	li2
 犁	li2
@@ -2020,6 +2836,7 @@ use_preset_vocabulary: true
 驪	li2
 鸝	li2
 酈	li2
+蛉	li2*蜻～公：蜻蜓(或作車裏公)
 哩	li3*象聲詞
 蠡	li3
 李	li3
@@ -2030,6 +2847,7 @@ use_preset_vocabulary: true
 禮	li3
 鯉	li3
 醴	li3
+利	li3
 旅	li3
 履	li3
 蜊	li4
@@ -2071,6 +2889,7 @@ use_preset_vocabulary: true
 涼	liaŋ2
 梁	liaŋ2
 粱	liaŋ2
+樑	liaŋ2
 糧	liaŋ2
 量	liaŋ2*～長短
 兩	liaŋ3
@@ -2082,6 +2901,7 @@ use_preset_vocabulary: true
 亮	liaŋ5
 晾	liaŋ5
 輛	liaŋ5
+蹘	liau1*蹺起
 撩	liau2
 聊	liau2
 僚	liau2
@@ -2138,6 +2958,7 @@ use_preset_vocabulary: true
 鰱	liɛn2
 璉	liɛn2
 槤	liɛn2
+奩	liɛn2 
 斂	liɛn3
 臉	liɛn3
 殮	liɛn3
@@ -2157,6 +2978,7 @@ use_preset_vocabulary: true
 琳	lin2
 鄰	lin2
 粼	lin2
+嶙	lin2
 遴	lin2
 霖	lin2
 燐	lin2
@@ -2246,7 +3068,7 @@ use_preset_vocabulary: true
 姆	m1*～媽：奶奶
 媽	ma1
 模	ma1*～糊：髒
-抹	ma1*～黑的：很黑
+抹	ma1*～黑：很黑
 麻	ma2
 蟆	ma2*蛤～
 馬	ma3
@@ -2267,6 +3089,7 @@ use_preset_vocabulary: true
 鬘	man2
 鰻	man2
 蠻	man2
+晚	man3*排行最小的
 㿸	man3*油～：皮膚上的油垢
 嫚	man4*女子暱稱
 蔓	man4*⬅️-5
@@ -2342,12 +3165,13 @@ use_preset_vocabulary: true
 袂	mei5
 寐	mei5
 謎	mei5
-們	mən
 蚊	mən1
 門	mən2
+們	mən2
+明	mən2*⬅️-in
 悶	mən4
 燜	mən4
-墨	mɤ1*～黑的：很黑
+墨	mɤ1*～黑：很黑
 脈	mɤ4
 麥	mɤ4
 沒	mɤ4
@@ -2366,7 +3190,7 @@ use_preset_vocabulary: true
 漫	mɤn4
 咪	mi1*象聲詞
 眯	mi1
-𥽰	mi1*～融的：很碎
+𥽰	mi1*～融：很碎
 糜	mi2*⬅️-ei
 縻	mi2
 麋	mi2*⬅️-ei
@@ -2414,8 +3238,8 @@ use_preset_vocabulary: true
 澠	miɛn3
 面	miɛn5
 麪	miɛn5
-蚊	min1*⬅️mə-
-門	min2*⬅️mə-
+蚊	min1
+門	min2
 萌	min2
 盟	min2
 民	min2
@@ -2477,7 +3301,7 @@ use_preset_vocabulary: true
 穆	mo4
 磨	mo5*石～
 墓	mo5
-蒙	moŋ1*～細的：很細
+蒙	moŋ1*～細：很細
 蒙	moŋ2
 檬	moŋ2
 艨	moŋ2
@@ -2493,12 +3317,13 @@ use_preset_vocabulary: true
 嗯	n1
 爾	n3*你
 拿	na1
-挪	na2*爬動
+爬	na2
 那	na4
 吶	na4*嗩～
 娜	na4
 納	na4
 捺	na4
+那	na5*發語辭
 乃	nai3
 奶	nai3
 捺	nai4*動
@@ -2536,6 +3361,122 @@ use_preset_vocabulary: true
 怒	nəu4
 奴	nəu5*⬅️-2
 哪	nɤ2*～吒
+妮	ni1
+尼	ni2
+泥	ni2
+倪	ni2
+霓	ni2
+鯢	ni2
+薿	ni2
+凝	ni2
+宜	ni2
+疑	ni2
+儀	ni2
+嶷	ni2
+誼	ni2
+你	ni3
+旎	ni3
+擬	ni3
+蟻	ni3*螞～
+泥	ni4*肥～公：蚯蚓
+逆	ni4
+匿	ni4
+睨	ni4
+瘧	ni4
+日	ni4
+慝	ni4
+䦧	ni4*⬅️-5
+蟻	ni4
+義	ni4*主～⬅️-5
+毅	ni4
+藝	ni4
+議	ni4
+逆	ni5
+膩	ni5
+䦧	ni5
+義	ni5
+黏	nia1*(或作𪐀、𫏬)
+黏	nia2
+惹	nia3
+肏	nia4
+捏	nia4*～白：扯謊
+娘	niaŋ2
+孃	niaŋ2
+仰	niaŋ3
+𨈓	niaŋ4*小
+釀	niaŋ5
+堯	niau2
+鳥	niau3
+裊	niau3
+尿	niau5
+噎	nie1
+涅	nie4
+聶	nie4*姓
+嚙	nie4
+鎳	nie4
+孽	nie4
+蘖	nie4
+囁	nie4
+躡	nie4
+鑷	nie4
+熱	nie4
+業	nie4
+妞	niəu1
+牛	niəu2
+扭	niəu3
+紐	niəu3
+衄	niəu4
+肉	niəu4
+拈	niɛn1
+蔫	niɛn1
+黏	niɛn1
+研	niɛn1
+年	niɛn2
+鮎	niɛn2
+汧	niɛn2
+然	niɛn2
+髯	niɛn2
+燃	niɛn2
+言	niɛn2
+妍	niɛn2
+閆	niɛn2
+閻	niɛn2
+嚴	niɛn2
+捻	niɛn3
+輦	niɛn3
+碾	niɛn3
+攆	niɛn3
+冉	niɛn3
+苒	niɛn3
+染	niɛn3
+彥	niɛn4
+唁	niɛn4
+驗	niɛn4
+念	niɛn5
+硯	niɛn5
+諺	niɛn5
+您	nin2*你們
+甯	nin2
+寧	nin2
+嚀	nin2
+檸	nin2
+聹	nin2
+人	nin2
+釅	nin2*巴～：粘稠
+沂	nin2
+吟	nin2
+銀	nin2
+迎	nin2
+吝	nin4
+賃	nin4*⬅️-5
+佞	nin4
+賃	nin5
+濘	nin5
+認	nin5
+溺	nio4
+虐	nio4
+弱	nio4
+蒻	nio4
 娜	no2
 挪	no2
 儺	no2
@@ -2546,127 +3487,12 @@ use_preset_vocabulary: true
 濃	noŋ2
 膿	noŋ2
 齈	noŋ2
-妮	ȵi1
-尼	ȵi2
-泥	ȵi2
-倪	ȵi2
-霓	ȵi2
-鯢	ȵi2
-薿	ȵi2
-凝	ȵi2
-宜	ȵi2
-疑	ȵi2
-儀	ȵi2
-嶷	ȵi2
-誼	ȵi2
-你	ȵi3
-旎	ȵi3
-擬	ȵi3
-蟻	ȵi3*螞～
-逆	ȵi4
-匿	ȵi4
-睨	ȵi4
-瘧	ȵi4
-日	ȵi4
-慝	ȵi4
-䦧	ȵi4*⬅️-5
-蟻	ȵi4
-義	ȵi4*主～⬅️-5
-毅	ȵi4
-藝	ȵi4
-議	ȵi4
-逆	ȵi5
-膩	ȵi5
-䦧	ȵi5
-義	ȵi5
-黏	ȵia1*(或作𪐀、𫏬)
-黏	ȵia2
-惹	ȵia3
-肏	ȵia4
-捏	ȵia4*～白：扯謊
-娘	ȵiaŋ2
-孃	ȵiaŋ2
-仰	ȵiaŋ3
-𨈓	ȵiaŋ4*小
-釀	ȵiaŋ5
-蹺	ȵiau1*翹
-堯	ȵiau2
-鳥	ȵiau3
-裊	ȵiau3
-尿	ȵiau5
-噎	ȵie1
-涅	ȵie4
-聶	ȵie4*姓
-嚙	ȵie4
-鎳	ȵie4
-孽	ȵie4
-蘖	ȵie4
-囁	ȵie4
-躡	ȵie4
-鑷	ȵie4
-熱	ȵie4
-業	ȵie4
-妞	ȵiəu1
-牛	ȵiəu2
-扭	ȵiəu3
-紐	ȵiəu3
-衄	ȵiəu4
-肉	ȵiəu4
-拈	ȵiɛn1
-蔫	ȵiɛn1
-黏	ȵiɛn1
-研	ȵiɛn1
-年	ȵiɛn2
-鮎	ȵiɛn2
-汧	ȵiɛn2
-然	ȵiɛn2
-髯	ȵiɛn2
-燃	ȵiɛn2
-言	ȵiɛn2
-妍	ȵiɛn2
-閆	ȵiɛn2
-閻	ȵiɛn2
-嚴	ȵiɛn2
-捻	ȵiɛn3
-輦	ȵiɛn3
-碾	ȵiɛn3
-攆	ȵiɛn3
-冉	ȵiɛn3
-苒	ȵiɛn3
-染	ȵiɛn3
-彥	ȵiɛn4
-唁	ȵiɛn4
-驗	ȵiɛn4
-念	ȵiɛn5
-硯	ȵiɛn5
-諺	ȵiɛn5
-您	ȵin2*你們
-甯	ȵin2
-寧	ȵin2
-嚀	ȵin2
-檸	ȵin2
-聹	ȵin2
-人	ȵin2
-釅	ȵin2*巴～的：粘稠
-沂	ȵin2
-吟	ȵin2
-銀	ȵin2
-迎	ȵin2
-吝	ȵin4
-賃	ȵin4*⬅️-5
-佞	ȵin4
-賃	ȵin5
-濘	ȵin5
-認	ȵin5
-溺	ȵio4
-虐	ȵio4
-弱	ȵio4
-蒻	ȵio4
-女	ȵy3
-汝	ȵy3
-乳	ȵy3
-語	ȵy3
-軟	ȵyɛn3
+女	ny3
+汝	ny3
+乳	ny3
+語	ny3
+軟	nyɛn3
+丫	ŋa1*張開
 椏	ŋa1
 𧧝	ŋa1*～𧨊：性情乖戾
 腌	ŋa1
@@ -2744,7 +3570,9 @@ use_preset_vocabulary: true
 搖	ŋau2
 襖	ŋau3
 䐿	ŋau3*醃漬
+咬	ŋau3*犬吠
 凹	ŋau4
+坳	ŋau4
 拗	ŋau4
 奡	ŋau4
 傲	ŋau4
@@ -2809,6 +3637,7 @@ use_preset_vocabulary: true
 𤌍	o4*燙
 哦	o4*那
 斡	o4
+齷	o4*～齪：垃圾
 嗡	oŋ1*象聲詞
 巴	pa1
 扒	pa1
@@ -2829,6 +3658,7 @@ use_preset_vocabulary: true
 靶	pa3
 八	pa4
 捌	pa4
+把	pa4*郎～公：女婿
 爸	pa4
 灞	pa4
 發	ɸa4
@@ -2861,6 +3691,7 @@ use_preset_vocabulary: true
 阪	pan3
 板	pan3
 版	pan3
+跘	pan3*摔倒
 反	ɸan3
 返	ɸan3
 扮	pan4
@@ -2869,20 +3700,21 @@ use_preset_vocabulary: true
 泛	ɸan4
 扮	pan5*⬅️-4
 邦	paŋ1
-梆	paŋ1*～硬的：很硬
+梆	paŋ1*～硬：很硬
 浜	paŋ1
 幫	paŋ1
 方	ɸaŋ1
 芳	ɸaŋ1
+枋	ɸaŋ1*～子：棺材
 肓	ɸaŋ1
 荒	ɸaŋ1
 慌	ɸaŋ1
-挷	paŋ13
 放	ɸaŋ2*～東西
 𠳐	paŋ3*象聲詞
 綁	paŋ3
 榜	paŋ3
 膀	paŋ3*肩～
+挷	paŋ3
 坊	ɸaŋ3
 仿	ɸaŋ3
 紡	ɸaŋ3
@@ -3029,7 +3861,7 @@ use_preset_vocabulary: true
 帕	pʰa4
 拍	pʰa4*～照
 派	pʰai2*哪一～
-佩	pʰai3*～起：佩帶
+擓	pʰai3*攜帶；懷孕
 庹	pʰai3*一～長：成人臂展長度
 派	pʰai4*～遣
 湃	pʰai4
@@ -3040,13 +3872,12 @@ use_preset_vocabulary: true
 畔	pʰan2
 襻	pʰan2*布釦，帶子
 盼	pʰan4
-肨	pʰaŋ1*～臭的：很臭
+肨	pʰaŋ1*～臭：很臭
 乓	pʰaŋ1
 胖	pʰaŋ2
 乓	pʰaŋ3
 髈	pʰaŋ3*～子：大腿肉
 苞	pʰau1
-雹	pʰau1
 藨	pʰau1*覆盆子
 拋	pʰau1
 脬	pʰau1
@@ -3082,6 +3913,7 @@ use_preset_vocabulary: true
 拌	pʰɤn4*⬅️b-5
 判	pʰɤn4
 叛	pʰɤn4
+屄	pʰi1
 丕	pʰi1
 砒	pʰi1
 屁	pʰi2
@@ -3089,6 +3921,7 @@ use_preset_vocabulary: true
 庇	pʰi3
 噼	pʰi3*象聲詞
 匹	pʰi3
+圮	pʰi3*瓦～子：瓦片
 鼻	pʰi4
 避	pʰi4
 靂	pʰi4
@@ -3102,7 +3935,7 @@ use_preset_vocabulary: true
 闢	pʰi4
 啪	pʰia3*象聲詞
 劈	pʰia3*打(耳光)
-撇	pʰia3*～淡的：很淡
+撇	pʰia3*～淡：很淡
 劈	pʰia4*～柴
 鰾	pʰiau1
 剽	pʰiau1
@@ -3165,6 +3998,7 @@ use_preset_vocabulary: true
 卜	pʰu4
 赴	pʰu4
 訃	pʰu4
+仆	pʰu4*趴
 撲	pʰu4
 僕	pʰu4
 璞	pʰu4
@@ -3172,6 +4006,7 @@ use_preset_vocabulary: true
 樸	pʰu4
 蹼	pʰu4
 屄	pi1
+閉	pi2
 比	pi3
 妣	pi3
 彼	pi3
@@ -3234,6 +4069,7 @@ use_preset_vocabulary: true
 冰	pin1
 兵	pin1
 併	pin2
+本	pin3
 丙	pin3
 秉	pin3
 柄	pin3
@@ -3253,7 +4089,7 @@ use_preset_vocabulary: true
 菠	po1
 餑	po1
 馞	po1
-啵	po1*打～
+啵	po1*對～：親嘴
 帛	po2*⬅️bo4
 簸	po2
 跛	po3
@@ -3358,10 +4194,14 @@ use_preset_vocabulary: true
 惚	ɸu4
 笏	ɸu4
 扈	ɸu4*⬅️βu5
+酸	s(u)ɤn1
+蒜	s(u)ɤn2
+算	s(u)ɤn2
 沙	sa1
 砂	sa1
 莎	sa1
 紗	sa1
+㸺	sa1
 痧	sa1
 裟	sa1
 鯊	sa1
@@ -3405,7 +4245,6 @@ use_preset_vocabulary: true
 姍	san1
 珊	san1
 潸	san1
-騸	san1
 拴	san1
 閂	san1
 栓	san1
@@ -3459,6 +4298,7 @@ use_preset_vocabulary: true
 綏	sei2
 碎	sei2
 歲	sei2
+水	sei3
 稅	sei4
 睡	sei4
 祟	sei4
@@ -3506,7 +4346,7 @@ use_preset_vocabulary: true
 蜃	sən4
 勝	sən4
 聖	sən4
-擤	sən4*～鼻子
+擤	sən4
 遜	sən4
 收	səu1
 梳	səu1
@@ -3570,8 +4410,8 @@ use_preset_vocabulary: true
 設	sɤ4
 攝	sɤ4
 懾	sɤ4
+失	sɤ4
 蝨	sɤ4
-折	sɤ4*～本
 煽	sɤn1
 扇	sɤn2
 陝	sɤn3
@@ -3598,13 +4438,13 @@ use_preset_vocabulary: true
 槊	so4
 爍	so4
 嗽	so4*用力吮吸：～麪
-俗	so4*差、醜：～樣子
 素	so4
 嗉	so4
 塑	so4
 溯	so4
 唆	so4*～使
 索	so4
+謶	so4*差、醜：～樣子
 凇	soŋ1
 菘	soŋ1
 淞	soŋ1
@@ -3614,7 +4454,7 @@ use_preset_vocabulary: true
 悚	soŋ3
 竦	soŋ3
 慫	soŋ3
-聳	soŋ3*推
+㩳	soŋ3*推
 宋	soŋ4
 蚩	sɿ1*～尤界(地名)
 施	sɿ1
@@ -3675,9 +4515,6 @@ use_preset_vocabulary: true
 噬	sɿ4
 諡	sɿ4
 釋	sɿ4
-酸	suɤn1
-蒜	suɤn2
-算	suɤn2
 噠	ta3*了
 打	ta3
 耷	ta4
@@ -3887,7 +4724,7 @@ use_preset_vocabulary: true
 綮	tɕʰin4
 侵	tɕʰin4
 沁	tɕʰin4
-清	tɕʰin4*～甜的：很甜
+清	tɕʰin4*～甜：很甜
 慶	tɕʰin4
 罄	tɕʰin4
 爵	tɕʰio4
@@ -4022,6 +4859,7 @@ use_preset_vocabulary: true
 杞	tɕi4*～枸
 薺	tɕi4
 吸	tɕi4*～管
+節	tɕi7*時～：時候
 伽	tɕia1*～利略
 加	tɕia1
 佳	tɕia1
@@ -4043,7 +4881,7 @@ use_preset_vocabulary: true
 斝	tɕia3
 賈	tɕia3*姓
 姐	tɕia3
-浹	tɕia4*～溼的：很溼
+浹	tɕia4*～溼：很溼
 裌	tɕia4
 夾	tɕia4*～攻；～酒：陳米酒
 莢	tɕia4
@@ -4052,9 +4890,9 @@ use_preset_vocabulary: true
 頰	tɕia4
 甲	tɕia4*盔～
 鉀	tɕia4
-嫁	tɕia4*姑媽
 稼	tɕia4
 駕	tɕia4
+姐	tɕia4*～～：姑
 澀	tɕia4
 江	tɕiaŋ1
 姜	tɕiaŋ1
@@ -4068,7 +4906,7 @@ use_preset_vocabulary: true
 繮	tɕiaŋ1
 腈	tɕiaŋ1*～肉：瘦肉
 踐	tɕiaŋ2*踩
-犟	tɕiaŋ2*固執
+犟	tɕiaŋ2
 醬	tɕiaŋ2
 蔣	tɕiaŋ3
 槳	tɕiaŋ3
@@ -4078,6 +4916,7 @@ use_preset_vocabulary: true
 將	tɕiaŋ4*大～
 降	tɕiaŋ4*下～
 絳	tɕiaŋ4
+犟	tɕiaŋ4*固執
 糨	tɕiaŋ4
 交	tɕiau1
 郊	tɕiau1
@@ -4098,6 +4937,7 @@ use_preset_vocabulary: true
 鄒	tɕiau1
 叫	tɕiau2
 藠	tɕiau2*⬅️dʑ-5
+醮	tɕiau2*打～：廟會
 狡	tɕiau3
 皎	tɕiau3
 絞	tɕiau3
@@ -4164,6 +5004,7 @@ use_preset_vocabulary: true
 見	tɕiɛn2
 箭	tɕiɛn2
 劍	tɕiɛn2
+毽	tɕiɛn2 
 柬	tɕiɛn3
 剪	tɕiɛn3
 揀	tɕiɛn3*～起
@@ -4205,8 +5046,10 @@ use_preset_vocabulary: true
 勁	tɕin2*有～
 進	tɕin2
 盡	tɕin2*⬅️dʑ-5
+境	tɕin2
 鏡	tɕin2
 㵾	tɕin2*冷；結冰
+今	tɕin3*如～：現在
 緊	tɕin3
 瑾	tɕin3
 槿	tɕin3
@@ -4299,6 +5142,7 @@ use_preset_vocabulary: true
 築	tɕy4*～巢
 鑄	tɕy4
 搽	tɕya1*～掃杵：竹掃把
+抓	tɕya1
 抉	tɕye4
 決	tɕye4
 珏	tɕye4
@@ -4459,7 +5303,7 @@ use_preset_vocabulary: true
 褪	tʰei2
 腿	tʰei3*火～
 替	tʰei4
-磴	tʰən3*臺階
+磴	tʰən3
 偷	tʰəu1
 兔	tʰəu2
 菟	tʰəu2
@@ -4496,6 +5340,7 @@ use_preset_vocabulary: true
 荻	tʰi⁷
 締	tʰia4*綁
 踢	tʰia4*～一腳
+叮	tʰiaŋ1*擬聲詞
 調	tʰiau1*～羮
 挑	tʰiau1
 跳	tʰiau2*～舞
@@ -4526,8 +5371,10 @@ use_preset_vocabulary: true
 廳	tʰin1
 吞	tʰin1
 聽	tʰin2
+磴	tʰin3*臺階
 挺	tʰin3
 艇	tʰin3
+聽	tʰin4*～你：不管
 拖	tʰo1
 嚲	tʰo3*東西垂下來
 妥	tʰo3
@@ -4565,7 +5412,7 @@ use_preset_vocabulary: true
 嗲	tia3
 滴	tia4
 釘	tiaŋ1*縫綴
-釘	tiaŋ2*～釘子；～重的：很重
+釘	tiaŋ2*～釘子；～重：很重
 刁	tiau1
 叼	tiau1
 凋	tiau1
@@ -4573,7 +5420,7 @@ use_preset_vocabulary: true
 碉	tiau1
 雕	tiau1
 鯛	tiau1
-弔	tiau2
+吊	tiau2
 掉	tiau2
 釣	tiau2
 調	tiau2*～動
@@ -4596,7 +5443,7 @@ use_preset_vocabulary: true
 盯	tin1
 疔	tin1
 釘	tin1*～子
-砧	tin1*～板
+砧	tin1
 釘	tin2*～住
 酊	tin3
 頂	tin3
@@ -4608,11 +5455,13 @@ use_preset_vocabulary: true
 跺	to2
 朵	to3
 躲	to3
+厾	to4*捅
 掇	to4
 奪	to4
 跺	to4
 冬	toŋ1
 東	toŋ1
+砧	toŋ1*～板
 凍	toŋ2
 咚	toŋ3*黑咕～
 董	toŋ3
@@ -4858,13 +5707,13 @@ use_preset_vocabulary: true
 褶	tsɤ4
 浙	tsɤ4
 沾	tsɤn1
-粘	tsɤn1*～貼
+粘	tsɤn1
 霑	tsɤn1
 氈	tsɤn1
 瞻	tsɤn1
-占	tsɤn1*～卜
+占	tsɤn1
 顫	tsɤn2
-佔	tsɤn2*～有
+佔	tsɤn2
 戰	tsɤn2
 鑽	tsɤn2
 展	tsɤn3
@@ -4875,6 +5724,7 @@ use_preset_vocabulary: true
 叉	tsʰa1
 杈	tsʰa1
 差	tsʰa1*～別
+蜻	tsʰa1*～蛉公：蜻蜓(或作車裏公)
 叉	tsʰa2
 岔	tsʰa2
 嚓	tsʰa3*象聲詞
@@ -4891,6 +5741,7 @@ use_preset_vocabulary: true
 猜	tsʰai1
 差	tsʰai1*出～
 釵	tsʰai1
+搋	tsʰai1*揉搓
 菜	tsʰai2
 采	tsʰai3
 採	tsʰai3
@@ -5028,7 +5879,6 @@ use_preset_vocabulary: true
 撤	tsʰɤ4
 徹	tsʰɤ4
 澈	tsʰɤ4
-辵	tsʰɤ4*騙(=謶?)
 擇	tsʰɤ4
 澤	tsʰɤ4
 賊	tsʰɤ4
@@ -5036,6 +5886,7 @@ use_preset_vocabulary: true
 宅	tsʰɤ4
 轍	tsʰɤ4
 爨	tsʰɤn4
+輟	tsʰo1*丟失
 搓	tsʰo1
 磋	tsʰo1
 蹉	tsʰo1
@@ -5046,6 +5897,7 @@ use_preset_vocabulary: true
 戳	tsʰo4
 綽	tsʰo4
 輟	tsʰo4
+齪	tsʰo4*齷～：垃圾
 撮	tsʰo4*～箕
 措	tsʰo4
 㪕	tsʰo4*觸碰，擺弄
@@ -5103,6 +5955,7 @@ use_preset_vocabulary: true
 左	tso3
 佐	tso3
 着	tso4*～衣
+隻	tso4*何～個：誰
 拙	tso4
 捉	tso4
 桌	tso4
@@ -5257,6 +6110,7 @@ use_preset_vocabulary: true
 婺	u4
 誤	u4
 寤	u4
+霧	u4*～罩子：霧
 騖	u4
 鶩	u4
 戊	u5
@@ -5270,7 +6124,7 @@ use_preset_vocabulary: true
 瓦	ua3
 猾	ua4
 滑	ua4
-噦	ua4*～苦的：很苦
+噦	ua4*～苦：很苦
 挖	ua4
 襪	ua4
 歪	uai1
@@ -5352,6 +6206,7 @@ use_preset_vocabulary: true
 慰	uei4
 謂	uei4
 魏	uei4
+餵	uei4
 未	uei5
 位	uei5
 味	uei5
@@ -5454,6 +6309,7 @@ use_preset_vocabulary: true
 烘	xoŋ1
 轟	xoŋ1
 哄	xoŋ3*～騙
+擤	xoŋ3
 迂	y1
 淤	y1
 瘀	y1
@@ -5465,7 +6321,6 @@ use_preset_vocabulary: true
 孺	y2
 襦	y2
 蠕	y2
-餵	y2
 于	y2
 余	y2
 妤	y2
@@ -5494,6 +6349,7 @@ use_preset_vocabulary: true
 覦	y2
 輿	y2
 芋	y2
+飫	y2*餵
 宇	y3
 羽	y3
 雨	y3
@@ -5531,6 +6387,7 @@ use_preset_vocabulary: true
 籲	y4
 熨	y4*～貼
 予	y5
+甩	ya2*丟棄
 曰	ye4
 月	ye4
 抈	ye4*～口：缺口
@@ -5540,6 +6397,7 @@ use_preset_vocabulary: true
 粵	ye4
 鉞	ye4
 閱	ye4
+淹	yɛn1
 冤	yɛn1
 淵	yɛn1
 鳶	yɛn1
@@ -5548,7 +6406,7 @@ use_preset_vocabulary: true
 椽	yɛn2
 鉛	yɛn2*～筆
 阮	yɛn2
-丸	yɛn2
+丸	yɛn2*～子
 完	yɛn2
 沿	yɛn2
 元	yɛn2
@@ -5572,6 +6430,7 @@ use_preset_vocabulary: true
 苑	yɛn4
 怨	yɛn4
 願	yɛn4*～意
+焰	yɛn5*螞～：彩虹
 院	yɛn5
 願	yɛn5*許～
 贇	yn1
@@ -5675,6 +6534,7 @@ use_preset_vocabulary: true
 嘈	zau2
 漕	zau2
 槽	zau2
+䐬	zau2*餓
 艚	zau2
 晁	zau2
 巢	zau2
@@ -5942,6 +6802,7 @@ use_preset_vocabulary: true
 憤	βən5
 混	βən5*～日子
 桓	βɤn2
+丸	βɤn2*藥～
 完	βɤn2
 煥	βɤn4*⬅️-5
 漶	βɤn4

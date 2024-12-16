@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2024.12.14"
+  version: "2024.12.16"
   author:
     - hulenkius <hulenkius@gmail.com>
     - github.com/Hulenkius/rime_dongbbin
@@ -54,6 +54,8 @@ speller:
   delimiter: " '"
   algebra:
     - xform/(\*)(.*)$//				# 定位註釋範圍
+    - derive/\(.*\)//
+    - xform/([\(,\)])//
     - derive/([1-5])//			# 聲調
 
     - xform/^tsʰ/C/				# 以下轉換聲母以便後續處理
