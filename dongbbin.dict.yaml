@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.161"
+version: "2024.12.162"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -33,7 +33,6 @@ use_preset_vocabulary: true
 包子
 保佑
 背心
-背心
 被窩
 本錢
 本子
@@ -52,7 +51,6 @@ use_preset_vocabulary: true
 伯娘
 跛子
 不會
-不會
 不快
 不是
 不熟
@@ -67,7 +65,6 @@ use_preset_vocabulary: true
 扯談
 吃藥
 喫虧
-喫虧
 抽廂
 出來
 出門
@@ -79,7 +76,6 @@ use_preset_vocabulary: true
 畜豬
 窗子
 牀鋪
-錘公
 錘公
 茈角
 祠堂
@@ -133,7 +129,6 @@ use_preset_vocabulary: true
 對啵
 對門
 媠娘
-媠娘
 媠爺
 屙尿
 屙屎
@@ -159,12 +154,10 @@ use_preset_vocabulary: true
 鋼筆
 高粱
 高上
-高上
 告訴
 哥哥
 割禾
 鴿子
-個把
 個把
 箇個
 箇裏
@@ -179,11 +172,9 @@ use_preset_vocabulary: true
 乖巧
 滾盤
 鍋子
-鍋子
 過年
 哈包
 旱菸
-好多
 好多
 何些
 河邊
@@ -191,7 +182,6 @@ use_preset_vocabulary: true
 橫樑
 喉嚨
 猴子
-後背
 後背
 後日
 葫蘆
@@ -224,7 +214,6 @@ use_preset_vocabulary: true
 醬油
 角角
 腳地
-腳地
 腳魚
 腳豬
 餃子
@@ -232,7 +221,6 @@ use_preset_vocabulary: true
 街上
 結婚
 姐夫
-姐姐
 姐姐
 戒指
 今朝
@@ -306,12 +294,10 @@ use_preset_vocabulary: true
 貓兒
 毛筆
 毛毛
-毛毛
 茅廁
 冇得
 冇在
 帽子
-麼子
 麼子
 眉毛
 梅花
@@ -343,7 +329,6 @@ use_preset_vocabulary: true
 鬧熱
 尼姑
 泥巴
-泥巴
 你們
 年初
 年底
@@ -373,7 +358,6 @@ use_preset_vocabulary: true
 菩薩
 欺負
 起火
-起來
 起來
 起屋
 起子
@@ -472,7 +456,6 @@ use_preset_vocabulary: true
 蚊子
 萵筍
 我們
-我們
 齷齪
 屋裏
 屋柱
@@ -525,10 +508,8 @@ use_preset_vocabulary: true
 鑰匙
 爺娘
 爺爺
-爺爺
 葉子
 一百
-一路
 一路
 一面
 一千
@@ -540,7 +521,6 @@ use_preset_vocabulary: true
 姨夫
 姨娘
 姨爺
-移咖
 移咖
 以後
 以前
@@ -634,7 +614,7 @@ use_preset_vocabulary: true
 肚子瀉
 端午節
 對不住
-犯咖噠
+嬎咖噠
 放人家
 肥泥公
 甘蔗稈
@@ -730,7 +710,6 @@ use_preset_vocabulary: true
 圍裙子
 爲麼子
 我人爺
-我人爺
 無名指
 霧罩子
 西紅柿
@@ -757,7 +736,6 @@ use_preset_vocabulary: true
 夜馬些
 一百五
 一下下
-一下下
 銀角子
 右手邊
 鬱起噠
@@ -776,7 +754,6 @@ use_preset_vocabulary: true
 豬舌子
 豬崽崽
 走人家
-走人家
 走四方
 嘴巴皮
 最後背
@@ -786,7 +763,7 @@ use_preset_vocabulary: true
 做生日
 做生意
 𨈓把戲
-𨈓把喞
+𨈓把唧
 八月十五
 北方水餃
 病好些噠
@@ -830,6 +807,7 @@ use_preset_vocabulary: true
 □	tɕʰiau1*～伴：結伴⬅️聚?
 □	tɕia1*巴～：沒有□的味道
 □	tɕiau4*窮
+□	yɛn2*螞～：彩虹
 □	zɤ4*嘮叨
 啊	a
 阿	a1*～姨
@@ -6749,6 +6727,7 @@ use_preset_vocabulary: true
 犯	βan5
 販	βan5
 飯	βan5
+嬎	βan5*流產
 幻	βan5
 患	βan5
 防	βaŋ2
