@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.162"
+version: "2024.12.18"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -809,6 +809,7 @@ use_preset_vocabulary: true
 □	tɕiau4*窮
 □	yɛn2*螞～：彩虹
 □	zɤ4*嘮叨
+□	pʰa4*～滿：很滿；～飽：很飽
 啊	a
 阿	a1*～姨
 啊	a4*發語辭，這，那，的
@@ -2758,6 +2759,7 @@ use_preset_vocabulary: true
 爐	ləu2*～鍋
 艫	ləu2
 顱	ləu2
+鸕	ləu2
 鱸	ləu2
 驢	ləu2
 僂	ləu3
@@ -2788,8 +2790,7 @@ use_preset_vocabulary: true
 綠	ləu4
 陋	ləu5
 漏	ləu5
-鸕	ləu5
-鑥	ləu5*銹
+黸	ləu5*銹
 鹿	ləu5
 路	ləu5*道路；事情
 露	ləu5
@@ -3374,6 +3375,7 @@ use_preset_vocabulary: true
 膩	ni5
 䦧	ni5
 義	ni5
+誼	ni5
 黏	nia1*(或作𪐀、𫏬)
 黏	nia2
 惹	nia3
@@ -5192,6 +5194,7 @@ use_preset_vocabulary: true
 等	tən3
 戥	tən3
 盹	tən3
+澄	tən4*黃～～
 燉	tən4
 盾	tən4
 遁	tən4
