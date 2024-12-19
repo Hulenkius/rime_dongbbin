@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.19"
+version: "2024.12.191"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -165,7 +165,7 @@ use_preset_vocabulary: true
 工資
 狗蝨
 姑爺
-谷咖
+箇咖
 穀子
 瓜瓢
 掛到
@@ -2166,7 +2166,7 @@ use_preset_vocabulary: true
 用	ioŋ4*作～
 𣭲	ioŋ5*～毛
 用	ioŋ5*有～
-咖	ka*過，了
+咖	ka*⬅️過
 伽	ka1*～馬
 家	ka1
 傢	ka1*～私
