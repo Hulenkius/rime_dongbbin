@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.20"
+version: "2024.12.201"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3603,6 +3603,7 @@ use_preset_vocabulary: true
 閼	ŋo4
 餓	ŋo5
 翁	ŋoŋ1
+瓮	ŋoŋ4
 阿	o1
 屙	o1
 婀	o1
@@ -6212,7 +6213,6 @@ use_preset_vocabulary: true
 碗	uɤn3
 畹	uɤn3
 腕	uɤn3
-瓮	woŋ4
 哈	xa1*～腰
 蝦	xa1*魚～
 嚇	xa2*～一跳
