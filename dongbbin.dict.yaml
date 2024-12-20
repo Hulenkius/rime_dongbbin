@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.191"
+version: "2024.12.20"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1513,7 +1513,7 @@ use_preset_vocabulary: true
 霞	dʑia2
 邪	dʑia2
 斜	dʑia2
-䠍	dʑia5*跨：～一腳
+䠍	dʑia5*跨：～一腳(或作㐄)
 下	dʑia5*～面
 夏	dʑia5
 謝	dʑia5*姓
@@ -6119,7 +6119,6 @@ use_preset_vocabulary: true
 宛	uan3
 挽	uan3
 晚	uan3
-惋	uan3
 婉	uan3
 綰	uan3*～頭髮
 萬	uan5
@@ -6208,6 +6207,7 @@ use_preset_vocabulary: true
 漚	uɤ4*久浸水中
 剜	uɤn1
 豌	uɤn1
+惋	uɤn3
 皖	uɤn3
 碗	uɤn3
 畹	uɤn3
