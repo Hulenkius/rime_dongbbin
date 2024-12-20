@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.201"
+version: "2024.12.202"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -996,6 +996,7 @@ use_preset_vocabulary: true
 硒	ɕi4
 悉	ɕi4
 淅	ɕi4
+惜	ɕi4
 晰	ɕi4
 翕	ɕi4
 皙	ɕi4
@@ -4437,6 +4438,7 @@ use_preset_vocabulary: true
 㩳	soŋ3*推
 宋	soŋ4
 蚩	sɿ1*～尤界(地名)
+尸	sɿ1
 施	sɿ1
 屍	sɿ1
 師	sɿ1
