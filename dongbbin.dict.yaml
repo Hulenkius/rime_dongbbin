@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.21"
+version: "2024.12.24"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1657,7 +1657,6 @@ use_preset_vocabulary: true
 殊	dʑy2
 薯	dʑy2*紅～⬅️-5
 徐	dʑy2
-睡	dʑy3*瞌～⬅️-5
 巨	dʑy4
 拒	dʑy4
 距	dʑy4
@@ -1666,11 +1665,13 @@ use_preset_vocabulary: true
 术	dʑy4*白～
 澍	dʑy4
 佇	dʑy4
+薯	dʑy5
 櫥	dʑy5*～子：櫃子
 苣	dʑy5
 苧	dʑy5
 豎	dʑy5
 樹	dʑy5
+睡	dʑy5*瞌～
 助	dʑy5
 住	dʑy5
 柱	dʑy5
@@ -3376,8 +3377,8 @@ use_preset_vocabulary: true
 䦧	ni5
 義	ni5
 誼	ni5
-黏	nia1*(或作𪐀、𫏬)
-黏	nia2
+𪐀	nia1*(或作𫏬)⬅️黏
+𪐀	nia2*(或作𫏬)⬅️黏
 惹	nia3
 肏	nia4
 捏	nia4*～白：扯謊
@@ -3669,7 +3670,7 @@ use_preset_vocabulary: true
 蕃	ɸan1
 翻	ɸan1
 絆	pan2
-嬔	ɸan2*鳥生蛋
+嬎	ɸan2*鳥生蛋
 阪	pan3
 板	pan3
 版	pan3
