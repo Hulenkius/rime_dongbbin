@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.26"
+version: "2024.12.27"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -336,7 +336,7 @@ use_preset_vocabulary: true
 年曆
 年輕
 鳥鳥
-捏白
+肏白
 寧願
 牛牯
 牛㸺
@@ -837,6 +837,7 @@ use_preset_vocabulary: true
 彷	baŋ2
 旁	baŋ2
 龐	baŋ2
+棒	baŋ4
 蚌	baŋ5
 傍	baŋ5
 磅	baŋ5*～秤
@@ -3381,7 +3382,6 @@ use_preset_vocabulary: true
 𪐀	nia2*(或作𫏬)⬅️黏
 惹	nia3
 肏	nia4
-捏	nia4*～白：扯謊
 娘	niaŋ2
 孃	niaŋ2
 仰	niaŋ3
@@ -3392,6 +3392,7 @@ use_preset_vocabulary: true
 裊	niau3
 尿	niau5
 噎	nie1
+捏	nia4
 涅	nie4
 聶	nie4*姓
 嚙	nie4
@@ -3706,7 +3707,7 @@ use_preset_vocabulary: true
 晃	ɸaŋ3*刺眼
 幌	ɸaŋ3
 謊	ɸaŋ3
-棒	paŋ4
+棒	paŋ4*⬅️b-
 蒡	paŋ4
 磅	paŋ4
 放	ɸaŋ4*解～
