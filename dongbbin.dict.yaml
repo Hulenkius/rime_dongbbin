@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.27"
+version: "2024.12.29"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1666,10 +1666,10 @@ use_preset_vocabulary: true
 术	dʑy4*白～
 澍	dʑy4
 佇	dʑy4
-薯	dʑy5
 櫥	dʑy5*～子：櫃子
 苣	dʑy5
 苧	dʑy5
+薯	dʑy5
 豎	dʑy5
 樹	dʑy5
 睡	dʑy5*瞌～
@@ -2408,6 +2408,7 @@ use_preset_vocabulary: true
 殼	kʰo4
 适	kʰo4
 坑	kʰoŋ1
+空	kʰoŋ1
 傾	kʰoŋ1*～垃圾：倒垃圾
 空	kʰoŋ2
 躬	kʰoŋ3*～起腦殼：低着頭
@@ -3392,7 +3393,7 @@ use_preset_vocabulary: true
 裊	niau3
 尿	niau5
 噎	nie1
-捏	nia4
+捏	nie4
 涅	nie4
 聶	nie4*姓
 嚙	nie4
@@ -3859,6 +3860,7 @@ use_preset_vocabulary: true
 肨	pʰaŋ1*～臭：很臭
 乓	pʰaŋ1
 胖	pʰaŋ2
+搒	pʰaŋ3*～門：摔門
 乓	pʰaŋ3
 髈	pʰaŋ3*～子：大腿肉
 苞	pʰau1
