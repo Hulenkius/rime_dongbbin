@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.29"
+version: "2024.12.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -5904,6 +5904,7 @@ use_preset_vocabulary: true
 琮	tsʰoŋ1
 銃	tsʰoŋ2
 寵	tsʰoŋ3
+衝	tsʰoŋ4*氣味濃烈
 差	tsʰɿ1*參～
 蚩	tsʰɿ1
 摛	tsʰɿ1*伸
