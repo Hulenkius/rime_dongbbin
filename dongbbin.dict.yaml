@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2024.12.30"
+version: "2025.01.04"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -2409,6 +2409,7 @@ use_preset_vocabulary: true
 适	kʰo4
 坑	kʰoŋ1
 空	kʰoŋ1
+空	kʰoŋ1
 傾	kʰoŋ1*～垃圾：倒垃圾
 空	kʰoŋ2
 躬	kʰoŋ3*～起腦殼：低着頭
@@ -4079,6 +4080,7 @@ use_preset_vocabulary: true
 帛	po2*⬅️bo4
 簸	po2
 跛	po3
+蔔	po3
 薄	po4*～荷
 剝	po4
 鉢	po4
@@ -4114,7 +4116,6 @@ use_preset_vocabulary: true
 俸	ɸoŋ4
 鳳	ɸoŋ4
 奉	ɸoŋ5
-蔔	pu
 唬	ɸu
 夫	ɸu1
 砆	ɸu1
@@ -5438,7 +5439,6 @@ use_preset_vocabulary: true
 鼎	tin3
 滴	tin4*一～咖子：一點點
 多	to1
-鐸	to2
 剁	to2
 跺	to2
 朵	to3
@@ -5446,6 +5446,7 @@ use_preset_vocabulary: true
 厾	to4*捅
 掇	to4
 奪	to4
+鐸	to4
 跺	to4
 冬	toŋ1
 東	toŋ1
