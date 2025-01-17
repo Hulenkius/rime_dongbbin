@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2025.01.17"
+version: "2025.01.171"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -3569,6 +3569,7 @@ use_preset_vocabulary: true
 驁	ŋau4
 恩	ŋən1
 我人	ŋən2*我們
+硍	ŋən3*硌
 摁	ŋən4
 硬	ŋən5
 甌	ŋəu1
