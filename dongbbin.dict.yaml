@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2025.01.172"
+version: "2025.01.173"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -288,7 +288,7 @@ use_preset_vocabulary: true
 供給
 狗蝨
 姑爺
-谷咖
+箇咖
 骨牌
 骨頭
 穀子
@@ -357,7 +357,6 @@ use_preset_vocabulary: true
 噦苦
 火腿
 雞蛋
-雞公
 雞公
 雞婆
 藉故
@@ -529,7 +528,6 @@ use_preset_vocabulary: true
 麻雀
 麻油
 螞蜒
-螞焰
 螞蟻
 罵架
 麥稈
@@ -537,7 +535,6 @@ use_preset_vocabulary: true
 貓兒
 毛筆
 毛廁
-毛毛
 毛毛
 茅廁
 冇得
@@ -574,7 +571,6 @@ use_preset_vocabulary: true
 末尾
 墨黑
 墨汁
-默神
 默神
 牡丹
 姆媽
@@ -660,7 +656,7 @@ use_preset_vocabulary: true
 鉗子
 錢紙
 歉意
-𦚞水
+腔水
 強大
 搶救
 悄起
@@ -778,7 +774,6 @@ use_preset_vocabulary: true
 探子
 嘆氣
 蹚水
-堂客
 堂客
 燙麪
 桃子
@@ -993,7 +988,6 @@ use_preset_vocabulary: true
 紙菸
 趾拇
 徵求
-炙火
 炙火
 秩序
 中間
@@ -1216,7 +1210,6 @@ use_preset_vocabulary: true
 罈子菜
 堂客們
 討堂客
-討堂客
 踢一腳
 踢足球
 天老爺
@@ -1253,7 +1246,6 @@ use_preset_vocabulary: true
 壓歲錢
 芫荽菜
 岩砣古
-檐壁鼠
 檐壁鼠
 奄一息
 眼珠子
@@ -5362,7 +5354,7 @@ use_preset_vocabulary: true
 記	tɕi2*～起來
 祭	tɕi2
 繫	tɕi2*～鞋帶
-喞	tɕi3*小稱
+唧	tɕi3*小稱
 几	tɕi3*茶～
 己	tɕi3
 幾	tɕi3*～個
