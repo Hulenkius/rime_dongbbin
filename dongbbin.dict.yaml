@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2025.01.173"
+version: "2025.03.14"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -280,6 +280,7 @@ use_preset_vocabulary: true
 個把
 個人
 箇個
+箇咖
 箇裏
 跟從
 更換
@@ -288,7 +289,6 @@ use_preset_vocabulary: true
 供給
 狗蝨
 姑爺
-箇咖
 骨牌
 骨頭
 穀子
@@ -776,6 +776,7 @@ use_preset_vocabulary: true
 蹚水
 堂客
 燙麪
+掏錢
 桃子
 討厭
 特別
@@ -936,6 +937,7 @@ use_preset_vocabulary: true
 音調
 音樂
 陰曆
+陰米
 銀杏
 隱藏
 應該
@@ -1345,11 +1347,11 @@ use_preset_vocabulary: true
 □	ka1*～ta3：敢
 □	kuai3*lia3～：不愛乾淨
 □	lan1*～泡：很鬆軟
-□	lei1*～死噠：喫多了無油的東西不舒服
+□	lei1*～死噠：喫多了無油的東西不舒服或講話不好聽
 □	lia3*～kuai3：不愛乾淨
 □	lo3*舌頭在嘴裏攪動食物
 □	ta3*ka1～：敢
-□	tɕia1*巴～：沒有□的味道
+□	tɕia1*巴～：沒有味道
 啊	a
 阿	a1*～姨
 啊	a4*發語辭，這，那，的
@@ -1861,7 +1863,7 @@ use_preset_vocabulary: true
 宕	daŋ4
 菪	daŋ4
 蕩	daŋ4
-掏	dau2
+掏	dau2*～錢：湊錢
 濤	dau2
 逃	dau2
 桃	dau2
@@ -1874,10 +1876,10 @@ use_preset_vocabulary: true
 蹈	dau4
 悼	dau4
 道	dau4*～路
-盜	dau4
 稻	dau4
 纛	dau4
 道	dau5*～人
+盜	dau5
 頽	dei2
 兌	dei5
 囤	dən2*～積
@@ -2897,6 +2899,7 @@ use_preset_vocabulary: true
 鱇	kʰaŋ1
 坑	kʰaŋ1
 扛	kʰaŋ2
+炕	kʰaŋ2*烤
 慷	kʰaŋ3
 抗	kʰaŋ4
 炕	kʰaŋ4
@@ -3006,7 +3009,6 @@ use_preset_vocabulary: true
 喟	kʰuei4
 愧	kʰuei4
 匱	kʰuei4
-潰	kʰuei4
 聵	kʰuei4
 饋	kʰuei4
 䁊	kʰuei4*眼睛下陷
@@ -3410,6 +3412,7 @@ use_preset_vocabulary: true
 霹	li4
 荔	li5
 痢	li5
+礪	li5
 嗲	lia1
 累	lia2*手～咖噠：提東西麻木了
 立	lia2*～唧(立即)：剛剛
@@ -3709,6 +3712,7 @@ use_preset_vocabulary: true
 悶	mən4
 燜	mən4
 墨	mɤ1*～黑：很黑
+每	mɤ3*⬅️-ei
 脈	mɤ4
 麥	mɤ4
 沒	mɤ4
@@ -4354,6 +4358,7 @@ use_preset_vocabulary: true
 薈	ɸei4
 諱	ɸei4
 燴	ɸei4
+潰	ɸei4
 奔	pən1*～跑
 錛	pən1
 繃	pən1*～斷：扯斷
@@ -5175,7 +5180,7 @@ use_preset_vocabulary: true
 羥	tɕʰiaŋ3
 戧	tɕʰiaŋ4*～菜刀
 蹌	tɕʰiaŋ4
-湊	tɕʰiau1*～伴：結伴
+搊	tɕʰiau1*結伴，一同
 悄	tɕʰiau1*～～話
 敲	tɕʰiau1
 橇	tɕʰiau1
@@ -5815,6 +5820,7 @@ use_preset_vocabulary: true
 胎	tʰai1
 苔	tʰai1
 薹	tʰai1*⬅️苔
+貸	tʰai4
 太	tʰai4
 泰	tʰai4
 鈦	tʰai4
@@ -6064,9 +6070,9 @@ use_preset_vocabulary: true
 債	tsai2
 仔	tsai3*牛～褲
 宰	tsai3
+崽	tsai3
 載	tsai4
 再	tsai4*～見
-崽	tsai5
 糌	tsan1
 簪	tsan1
 旃	tsan1
@@ -6145,7 +6151,6 @@ use_preset_vocabulary: true
 錐	tsei1
 醉	tsei2
 嘴	tsei3*脣～
-㩙	tsei4*塞入
 惴	tsei4
 綴	tsei4
 贅	tsei4
@@ -6238,7 +6243,7 @@ use_preset_vocabulary: true
 築	tsəu4*建～
 鐲	tsəu4
 奏	tsəu4
-揍	tsəu4
+揍	tsəu4*塞入
 足	tsəu4
 鏃	tsəu4
 者	tsɤ3
@@ -6800,9 +6805,10 @@ use_preset_vocabulary: true
 酣	xan1
 憨	xan1
 鼾	xan1
+漢	xan2*成年男子
 罕	xan3
 喊	xan3
-漢	xan4
+漢	xan4*～族
 撼	xan4*⬅️ɣ-5
 瀚	xan4*⬅️ɣ-5
 夯	xaŋ1*打～
