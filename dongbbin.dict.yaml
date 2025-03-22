@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2025.03.14"
+version: "2025.03.22"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4150,6 +4150,7 @@ use_preset_vocabulary: true
 鵝	ŋo2
 我	ŋo3
 額	ŋo4
+俄	ŋo4
 厄	ŋo4
 扼	ŋo4*⬅️-ɤ
 堊	ŋo4
