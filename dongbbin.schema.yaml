@@ -4,7 +4,7 @@
 schema:
   name: 湘語 安化東坪話
   schema_id: dongbbin
-  version: "2025.03.22"
+  version: "2025.03.221"
   author:
     - hulenkius <hulenkius@gmail.com>
     - github.com/Hulenkius/rime_dongbbin
@@ -90,7 +90,7 @@ speller:
 
     - xform/ə/e/				# 以下處理韻母
     - xform/ɤn/vn/
-    - xform/ɤ(^$)/e/
+    - xform/ɤ/e/
     - derive/uen/un/
     - xform/ɛ/e/
     - xform/^y/yu/				# 按漢拼規則寫i、u、ü
