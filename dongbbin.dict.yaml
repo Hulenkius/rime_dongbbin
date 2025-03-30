@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2025.03.22"
+version: "2025.03.30"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1862,7 +1862,8 @@ use_preset_vocabulary: true
 凼	daŋ4*凹陷
 宕	daŋ4
 菪	daŋ4
-蕩	daŋ4
+蕩	daŋ5
+盪	daŋ5
 掏	dau2*～錢：湊錢
 濤	dau2
 逃	dau2
@@ -2637,6 +2638,7 @@ use_preset_vocabulary: true
 人	in2*⬅️n-
 壬	in2
 仁	in2
+仍	in2
 鎔	in2*⬅️-oŋ
 淫	in2
 寅	in2
@@ -4149,8 +4151,8 @@ use_preset_vocabulary: true
 蛾	ŋo2
 鵝	ŋo2
 我	ŋo3
-額	ŋo4
 俄	ŋo4
+額	ŋo4
 厄	ŋo4
 扼	ŋo4*⬅️-ɤ
 堊	ŋo4
@@ -5780,7 +5782,8 @@ use_preset_vocabulary: true
 蔸	təu1*量詞，棵
 逗	təu1
 嘟	təu1
-湊	təu2*～起來：接攏來
+鬥	təu2
+鬭	təu2*～起來：接攏來
 抖	təu3
 陡	təu3
 蚪	təu3
@@ -5883,7 +5886,9 @@ use_preset_vocabulary: true
 迪	tʰi4
 笛	tʰi4
 滌	tʰi4
+嫡	tʰi4
 敵	tʰi4
+鏑	tʰi4
 娣	tʰi4
 諦	tʰi4
 隸	tʰi4
@@ -5960,8 +5965,6 @@ use_preset_vocabulary: true
 詆	ti3
 的	ti4*目～
 滴	ti4
-嫡	ti4
-鏑	ti4
 帝	ti4
 蒂	ti4
 的	ti5
@@ -7154,7 +7157,6 @@ use_preset_vocabulary: true
 唇	zən2
 脣	zən2
 存	zən2
-仍	zən2
 娠	zən2
 神	zən2
 沈	zən2*～水
