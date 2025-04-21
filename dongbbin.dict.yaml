@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2025.03.30"
+version: "2025.04.21"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1029,6 +1029,7 @@ use_preset_vocabulary: true
 做路
 做媒
 做夢
+厮攆
 白楊樹
 敗家子
 半夜些
@@ -3996,6 +3997,7 @@ use_preset_vocabulary: true
 彥	niɛn4
 唁	niɛn4
 驗	niɛn4
+攆	niɛn5*厮～：玩耍
 念	niɛn5
 硯	niɛn5
 諺	niɛn5
@@ -5358,6 +5360,7 @@ use_preset_vocabulary: true
 齏	tɕi1
 羈	tɕi1
 幾	tɕi1*～乎
+季	tɕi2*種一～
 計	tɕi2*～策
 記	tɕi2*～起來
 祭	tɕi2
@@ -5390,7 +5393,7 @@ use_preset_vocabulary: true
 嫉	tɕi4
 脊	tɕi4
 戟	tɕi4
-季	tɕi4
+季	tɕi4*～度
 計	tɕi4*～劃
 既	tɕi4
 記	tɕi4*日～
