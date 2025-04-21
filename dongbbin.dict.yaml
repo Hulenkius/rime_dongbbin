@@ -2,7 +2,7 @@
 # encoding: utf-8
 ---
 name: dongbbin
-version: "2025.04.21"
+version: "2025.04.211"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -4026,7 +4026,7 @@ use_preset_vocabulary: true
 娜	no2
 挪	no2
 儺	no2
-䁔	no3*⬅️-uɤn
+暖	no3*⬅️-uɤn
 懦	no4
 糯	no5
 農	noŋ2
@@ -4034,7 +4034,7 @@ use_preset_vocabulary: true
 濃	noŋ2
 膿	noŋ2
 齈	noŋ2
-䁔	nuɤn3
+暖	nuɤn3
 女	ny3
 汝	ny3
 乳	ny3

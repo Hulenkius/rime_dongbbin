@@ -5,7 +5,7 @@ RIME 輸入方案：安化東坪話
 
 ![](@示例.webp)
 
-材料來自 [漢字音典](https://github.com/osfans/MCPDict)、[语保工程采录展示平台](https://zhongguoyuyan.cn/)、《[漢語方言用字規範](https://fangyanzi.vercel.app/)》和《現代漢語方言大詞典》。統一了一些記音細節。類推一些表中未收及的字音（謹慎使用）。
+材料來自 [漢字音典](https://github.com/osfans/MCPDict)、[语保工程采录展示平台](https://zhongguoyuyan.cn/)、《[漢語方言用字規範](https://fangyanzi.vercel.app/)》、《現代漢語方言大詞典》、個人記錄。統一了一些記音細節。類推一些表中未收及的字音（謹慎使用）。
 
 本輸入方案採用接近普通話拼音的轉寫方案，以利方言初習者。
 
@@ -26,7 +26,7 @@ RIME 輸入方案：安化東坪話
 |tɕ tɕʰ dʑ|j q jj|
 |ɕ|x|
 |ə e ɛ ɤ|e|
-|ɤn|vn、v 或 e (下詳)|
+|ɤn|vn、v 或 e|
 |ɿ|i|
 |i u y|依漢拼寫法|
 
